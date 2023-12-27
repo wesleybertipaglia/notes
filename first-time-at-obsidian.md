@@ -1,0 +1,1 @@
+Hi its my first time at Obsidian, i found it amazing
