@@ -1,6 +1,6 @@
-# My Vault Repository
+# My Notes Repository
 
-Welcome to my vault repository! This is where I store and organize my notes, blog posts, texts, graphics, and more. Additionally, you'll find the setups for Obsidian, Joplin, Logseq, and Notion documented here.
+Welcome to my notes repository! This is where I store and organize my notes, blog posts, texts, graphics, and more. Additionally, you'll find the setups for Obsidian, Joplin, Logseq, and Notion documented here.
 
 ## Table of Contents
 
