@@ -1,0 +1,117 @@
+---
+title: Django Tutorial
+author: Wesley Bertipaglia
+tags:
+  - backend
+  - python
+  - framework
+---
+# Getting Started
+
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. In this tutorial, we'll walk through the basics of setting up a Django development environment and creating a simple Django application.
+
+## Step 1: Install Python
+
+1. Visit the Python official website to download the latest version of Python: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+2. Follow the installation instructions for your operating system.
+
+3. Once installed, you can verify that Python is installed correctly by opening a terminal or command prompt and typing:
+
+    ```bash
+    python --version
+    ```
+
+   If you have installed Python 3, you may need to use `python3` instead of `python`.
+
+## Step 2: Install Django
+
+1. Open a terminal or command prompt.
+
+2. Use pip, the Python package installer, to install Django:
+
+    ```bash
+    pip install django
+    ```
+
+3. Once installed, you can verify that Django is installed correctly by typing:
+
+    ```bash
+    django-admin --version
+    ```
+
+## Step 3: Creating a Django Project
+
+1. Create a new directory for your Django project:
+
+    ```bash
+    mkdir mydjangoapp
+    ```
+
+2. Navigate into your project directory:
+
+    ```bash
+    cd mydjangoapp
+    ```
+
+3. Use the Django command-line tool to create a new project:
+
+    ```bash
+    django-admin startproject myproject
+    ```
+
+## Step 4: Running Your Django Project
+
+1. Navigate into your project directory:
+
+    ```bash
+    cd myproject
+    ```
+
+2. Use the following command to start the Django development server:
+
+    ```bash
+    python manage.py runserver
+    ```
+
+3. Open your web browser and navigate to `http://localhost:8000`. You should see the Django welcome page.
+
+## Step 5: Creating Your First Django App
+
+1. Use the Django command-line tool to create a new app:
+
+    ```bash
+    python manage.py startapp myapp
+    ```
+
+2. Open the `myapp/views.py` file in a text editor and define a view function:
+
+    ```python
+    from django.http import HttpResponse
+
+    def index(request):
+        return HttpResponse("Hello, Django!")
+    ```
+
+3. Create a URL pattern for the view in the `myproject/urls.py` file:
+
+    ```python
+    from django.urls import path
+    from myapp import views
+
+    urlpatterns = [
+        path('', views.index, name='index'),
+    ]
+    ```
+
+## Step 6: Running Your Django App
+
+1. Start the Django development server if it's not already running:
+
+    ```bash
+    python manage.py runserver
+    ```
+
+2. Open your web browser and navigate to `http://localhost:8000`. You should see the message "Hello, Django!" displayed in the browser.
+
+Congratulations! You've just created and run your first Django application. From here, you can explore more advanced features and build powerful web applications with Django.

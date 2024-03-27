@@ -1,0 +1,135 @@
+---
+title: CakePHP Tutorial
+author: Wesley Bertipaglia
+tags:
+  - backend
+  - php
+  - framework
+---
+# Getting Started
+
+CakePHP is a modern PHP framework that makes building web applications simpler, faster, and require less code. In this tutorial, we'll walk through the basics of setting up a CakePHP development environment and creating a simple CakePHP application.
+
+## Step 1: Install Composer
+
+Composer is a dependency manager for PHP that is used to manage packages and libraries in your PHP projects. Follow the instructions below to install Composer:
+
+1. Visit the Composer website: [https://getcomposer.org/download/](https://getcomposer.org/download/)
+
+2. Follow the installation instructions for your operating system.
+
+3. Once installed, you can verify that Composer is installed correctly by opening a terminal or command prompt and typing:
+
+    ```bash
+    composer --version
+    ```
+
+## Step 2: Install CakePHP
+
+1. Open a terminal or command prompt.
+
+2. Use Composer to create a new CakePHP project:
+
+    ```bash
+    composer create-project --prefer-dist cakephp/app my-cakephp-app
+    ```
+
+3. Navigate into your CakePHP project directory:
+
+    ```bash
+    cd my-cakephp-app
+    ```
+
+## Step 3: Setting Up Your CakePHP Project
+
+1. Create a `.env` file by copying the `.env.default` file:
+
+    ```bash
+    cp .env.default .env
+    ```
+
+2. Open the `.env` file in a text editor and configure your database settings (e.g., database type, hostname, username, password).
+
+3. Generate the application key:
+
+    ```bash
+    bin/cake server
+    ```
+
+## Step 4: Creating Your First CakePHP Controller
+
+1. Use the CakePHP Bake command-line tool to generate a new controller:
+
+    ```bash
+    bin/cake bake controller Hello
+    ```
+
+2. Open the newly created controller file `src/Controller/HelloController.php` in your favorite text editor.
+
+3. Add a method to the controller to handle the request:
+
+    ```php
+    <?php
+
+    namespace App\Controller;
+
+    class HelloController extends AppController
+    {
+        public function index()
+        {
+            $this->set('message', 'Hello, CakePHP!');
+        }
+    }
+    ```
+
+## Step 5: Creating Your First CakePHP View
+
+1. Use the CakePHP Bake command-line tool to generate a new view:
+
+    ```bash
+    bin/cake bake template Hello
+    ```
+
+2. Open the newly created view file `templates/Hello/index.php` in your favorite text editor.
+
+3. Add the following code to display the message:
+
+    ```php
+    <h1><?= h($message) ?></h1>
+    ```
+
+## Step 6: Routing Your CakePHP Application
+
+1. Open the `config/routes.php` file in a text editor.
+
+2. Define a route that maps a URL to the controller method:
+
+    ```php
+    <?php
+
+    use Cake\Routing\Route\DashedRoute;
+
+    $routes->scope('/', function ($routes) {
+        $routes->connect('/hello', ['controller' => 'Hello', 'action' => 'index']);
+    });
+
+    $routes->fallbacks(DashedRoute::class);
+    ```
+
+## Step 7: Running Your CakePHP Application
+
+1. In your terminal, navigate to your CakePHP project directory:
+
+    ```bash
+    cd /path/to/your/project
+    ```
+
+2. Use the built-in CakePHP development server to start the application:
+
+    ```bash
+    bin/cake server
+    ```
+
+3. Open your web browser and navigate to `http://localhost:8765/hello`. You should see the message "Hello, CakePHP!" displayed in the browser.
+
+Congratulations! You've just created and run your first CakePHP application. From here, you can explore more advanced features and build powerful web applications with CakePHP.

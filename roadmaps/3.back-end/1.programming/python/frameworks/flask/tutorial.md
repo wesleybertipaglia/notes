@@ -1,0 +1,77 @@
+---
+title: Flask Tutorial
+author: Wesley Bertipaglia
+tags:
+  - backend
+  - python
+  - framework
+---
+# Getting Started
+
+Flask is a lightweight Python web framework that is simple, easy to learn, and ideal for building small to medium-sized web applications. In this tutorial, we'll walk through the basics of setting up a Flask development environment and creating a simple Flask application.
+
+## Step 1: Install Flask
+
+1. Open a terminal or command prompt.
+
+2. Use pip, the Python package installer, to install Flask:
+
+    ```bash
+    pip install Flask
+    ```
+
+## Step 2: Creating a Flask Application
+
+1. Create a new Python file for your Flask application, e.g., `app.py`.
+
+2. Open `app.py` in your favorite text editor.
+
+3. Write your Flask application code. For example:
+
+    ```python
+    from flask import Flask
+
+    app = Flask(__name__)
+
+    @app.route('/')
+    def hello():
+        return 'Hello, Flask!'
+    ```
+
+4. Save the file.
+
+## Step 3: Running Your Flask Application
+
+1. In your terminal, navigate to the directory where your `app.py` file is located.
+
+2. Set the `FLASK_APP` environment variable to your application file:
+
+    - On Windows:
+
+        ```bash
+        set FLASK_APP=app.py
+        ```
+
+    - On macOS and Linux:
+
+        ```bash
+        export FLASK_APP=app.py
+        ```
+
+3. Run the Flask development server:
+
+    ```bash
+    flask run
+    ```
+
+4. Open your web browser and navigate to `http://localhost:5000`. You should see the message "Hello, Flask!" displayed in the browser.
+
+## Step 4: Exploring Flask Features
+
+1. Flask provides many features out of the box, including route decorators, templates, request handling, and more.
+
+2. You can define routes, render HTML templates, handle form submissions, and interact with databases using Flask extensions.
+
+3. Explore the official Flask documentation for detailed guides, tutorials, and examples: [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
+
+Congratulations! You've just created and run your first Flask application. From here, you can explore more advanced Flask features and build powerful web applications with Flask.

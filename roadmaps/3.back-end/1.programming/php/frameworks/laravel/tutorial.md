@@ -1,0 +1,116 @@
+---
+title: Laravel Tutorial
+author: Wesley Bertipaglia
+tags:
+  - backend
+  - php
+  - framework
+---
+# Getting
+
+Laravel is a powerful PHP framework known for its elegant syntax and developer-friendly features. In this tutorial, we'll walk through the basics of setting up a Laravel development environment and creating a simple Laravel application.
+
+## Step 1: Install Composer
+
+Composer is a dependency manager for PHP that is used to manage packages and libraries in your PHP projects. Follow the instructions below to install Composer:
+
+1. Visit the Composer website: [https://getcomposer.org/download/](https://getcomposer.org/download/)
+
+2. Follow the installation instructions for your operating system.
+
+3. Once installed, you can verify that Composer is installed correctly by opening a terminal or command prompt and typing:
+
+    ```bash
+    composer --version
+    ```
+
+## Step 2: Install Laravel
+
+1. Open a terminal or command prompt.
+
+2. Use Composer to create a new Laravel project:
+
+    ```bash
+    composer create-project --prefer-dist laravel/laravel my-laravel-app
+    ```
+
+3. Navigate into your Laravel project directory:
+
+    ```bash
+    cd my-laravel-app
+    ```
+
+## Step 3: Setting Up Your Laravel Project
+
+1. Create a `.env` file by copying the `.env.example` file:
+
+    ```bash
+    cp .env.example .env
+    ```
+
+2. Generate the application key:
+
+    ```bash
+    php artisan key:generate
+    ```
+
+## Step 4: Creating Your First Laravel Application
+
+1. Use Artisan, Laravel's command-line interface, to create a new controller:
+
+    ```bash
+    php artisan make:controller HelloController
+    ```
+
+2. Open the newly created controller file `app/Http/Controllers/HelloController.php` in your favorite text editor.
+
+3. Add a method to the controller to handle the request:
+
+    ```php
+    <?php
+
+    namespace App\Http\Controllers;
+
+    use Illuminate\Http\Request;
+
+    class HelloController extends Controller
+    {
+        public function index()
+        {
+            return 'Hello, Laravel!';
+        }
+    }
+    ```
+
+## Step 5: Routing Your Laravel Application
+
+1. Open the `routes/web.php` file in your Laravel project.
+
+2. Define a route that maps a URL to the controller method:
+
+    ```php
+    <?php
+
+    use Illuminate\Support\Facades\Route;
+    use App\Http\Controllers\HelloController;
+
+    Route::get('/', [HelloController::class, 'index']);
+    ```
+
+## Step 6: Running Your Laravel Application
+
+1. In your terminal, navigate to your Laravel project directory:
+
+    ```bash
+    cd /path/to/your/project
+    ```
+
+2. Use Artisan to start the Laravel development server:
+
+    ```bash
+    php artisan serve
+    ```
+
+3. Open your web browser and navigate to `http://localhost:8000`. You should see the message "Hello, Laravel!" displayed in the browser.
+
+Congratulations! You've just created and run your first Laravel application. From here, you can explore more advanced features and build powerful web applications with Laravel.

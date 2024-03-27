@@ -1,0 +1,63 @@
+---
+title: Fast API Tutorial
+author: Wesley Bertipaglia
+tags:
+  - backend
+  - python
+  - framework
+---
+# Getting Started
+
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. In this tutorial, we'll walk through the basics of setting up a FastAPI development environment and creating a simple FastAPI application.
+
+## Step 1: Install FastAPI
+
+1. Open a terminal or command prompt.
+
+2. Use pip, the Python package installer, to install FastAPI:
+
+    ```bash
+    pip install fastapi uvicorn
+    ```
+
+## Step 2: Creating a FastAPI Application
+
+1. Create a new Python file for your FastAPI application, e.g., `app.py`.
+
+2. Open `app.py` in your favorite text editor.
+
+3. Write your FastAPI application code. For example:
+
+    ```python
+    from fastapi import FastAPI
+
+    app = FastAPI()
+
+    @app.get("/")
+    def read_root():
+        return {"message": "Hello, FastAPI!"}
+    ```
+
+4. Save the file.
+
+## Step 3: Running Your FastAPI Application
+
+1. In your terminal, navigate to the directory where your `app.py` file is located.
+
+2. Use the Uvicorn ASGI server to run your FastAPI application:
+
+    ```bash
+    uvicorn app:app --reload
+    ```
+
+3. Open your web browser and navigate to `http://localhost:8000`. You should see the message "Hello, FastAPI!" displayed in the browser.
+
+## Step 4: Exploring FastAPI Features
+
+1. FastAPI provides many features out of the box, including automatic validation, serialization, interactive API documentation (Swagger UI), and more.
+
+2. You can define path parameters, query parameters, request bodies, response models, and more using Python type hints.
+
+3. Explore the official FastAPI documentation for detailed guides, tutorials, and examples: [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+
+Congratulations! You've just created and run your first FastAPI application. From here, you can explore more advanced features and build powerful APIs with FastAPI.

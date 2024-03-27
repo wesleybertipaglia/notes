@@ -1,8 +1,11 @@
 ---
-title: "Hugo Guide"
-date: 2023-12-10T13:40:29-03:00
-tags: ["hugo", "website building", "static websites", "coding"]
-author: "Wesley Bertipaglia"
+title: Hugo Tutorial
+author: Wesley Bertipaglia
+tags:
+  - web
+  - website
+  - static
+  - generator
 ---
 
 # Hugo Guide
