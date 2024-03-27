@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3de6fef64e090cdd",
+        "id": "73c1823db3c9222d",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0de29922983b2e",
+            "id": "6454ba239e750635",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/algorithms/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "roadmaps/algorithms/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "roadmaps/algorithms/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "roadmaps/algorithms/Introduction.md"
+              }
             }
           }
         ]
@@ -140,6 +148,25 @@
   },
   "active": "c6b653c490acf613",
   "lastOpenFiles": [
+    "roadmaps/architecture/Monolitic.md",
+    "roadmaps/algorithms/Introduction.md",
+    "roadmaps/architecture/Micro Services.md",
+    "roadmaps/infrastructure/Monitoring.md",
+    "roadmaps/architecture",
+    "roadmaps/infrastructure/CI & CD.md",
+    "roadmaps/infrastructure/Containers.md",
+    "README.md",
+    "roadmaps/infrastructure",
+    "roadmaps/iot",
+    "roadmaps/desktop",
+    "roadmaps/back-end",
+    "roadmaps/mobile",
+    "roadmaps/web",
+    "roadmaps/algorithms",
+    "roadmaps",
+    "blog/first-time-at-obsidian.md",
+    "blog/hello-from-hugo.md",
+    "guides/hugo-guide.md",
     "My first time at Obsidian.md",
     "2023-12-26.md",
     "Untitled 1.canvas",
