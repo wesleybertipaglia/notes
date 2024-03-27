@@ -11,8 +11,12 @@
             "id": "5c9e763f356b077c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/3.back-end/4.security/auth/1.introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "roadmaps/3.back-end/4.security/auth/1.introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "roadmaps/3.back-end/4.security/auth/1.introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "roadmaps/3.back-end/4.security/auth/1.introduction.md"
+              }
             }
           }
         ]
@@ -140,42 +148,42 @@
   },
   "active": "5c9e763f356b077c",
   "lastOpenFiles": [
-    "roadmaps/2.web/3.build/task-runners/gulp/3.get-started.md",
-    "roadmaps/2.web/3.build/task-runners/gulp/2.roadmap.md",
-    "roadmaps/2.web/3.build/task-runners/gulp/1.introduction.md",
-    "roadmaps/2.web/3.build/task-runners/gulp",
-    "roadmaps/2.web/3.build/task-runners/grunt (copy)/3.get-started.md",
-    "roadmaps/2.web/3.build/task-runners/grunt (copy)/2.roadmap.md",
-    "roadmaps/2.web/3.build/task-runners/grunt (copy)/1.introduction.md",
-    "roadmaps/2.web/3.build/task-runners/grunt (copy)",
-    "roadmaps/2.web/3.build/task-runners/grunt/3.get-started.md",
-    "roadmaps/2.web/3.build/task-runners/grunt/2.roadmap.md",
-    "roadmaps/2.web/3.build/task-runners/grunt/1.introduction.md",
-    "roadmaps/2.web/3.build/task-runners/grunt",
-    "roadmaps/2.web/3.build/task-runners/npm (copy)/3.get-started.md",
-    "roadmaps/2.web/3.build/task-runners/npm (copy)/2.roadmap.md",
-    "roadmaps/2.web/3.build/task-runners/npm (copy)/1.introduction.md",
-    "roadmaps/2.web/3.build/task-runners/npm (copy)",
-    "roadmaps/2.web/3.build/task-runners/npm/3.get-started.md",
-    "roadmaps/2.web/3.build/task-runners/npm/2.roadmap.md",
-    "roadmaps/2.web/3.build/task-runners/npm/1.introduction.md",
-    "roadmaps/2.web/3.build/task-runners/npm",
-    "roadmaps/2.web/3.build/packages-managers/pnpm/3.get-started.md",
-    "roadmaps/2.web/3.build/packages-managers/pnpm/2.roadmap.md",
-    "roadmaps/2.web/3.build/packages-managers/pnpm/1.introduction.md",
-    "roadmaps/2.web/3.build/packages-managers/pnpm",
-    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/3.get-started.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/2.roadmap.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/1.introduction.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn (copy)",
-    "roadmaps/2.web/3.build/packages-managers/yarn/3.get-started.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn/2.roadmap.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn/1.introduction.md",
-    "roadmaps/2.web/3.build/packages-managers/yarn",
-    "roadmaps/2.web/3.build/packages-managers/npm (copy)/3.get-started.md",
-    "roadmaps/2.web/3.build/packages-managers/npm (copy)/2.roadmap.md",
-    "roadmaps/2.web/3.build/packages-managers/npm (copy)",
-    "roadmaps/2.web/3.build/packages-managers/npm",
+    "roadmaps/4.devops/1.os/linux/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/loki/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/loki/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/loki/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/loki",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/chef/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/chef/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/chef/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/chef",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/elk-stack/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/elk-stack/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/elk-stack/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs/elk-stack",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/chef/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/chef/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/chef/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/chef",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/app-dynamics/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/app-dynamics/2.roadmap.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/app-dynamics/1.introduction.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/app-dynamics",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/chef/3.get-started.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/chef",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

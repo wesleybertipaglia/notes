@@ -1,3 +1,0 @@
-- [ ] ubuntu / debian
-- [ ] suse
-- [ ] rhel / derivatives

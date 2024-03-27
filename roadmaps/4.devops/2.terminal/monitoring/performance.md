@@ -1,4 +1,0 @@
-- [ ] nmon
-- [ ] iostat
-- [ ] sar
-- [ ] vmstat

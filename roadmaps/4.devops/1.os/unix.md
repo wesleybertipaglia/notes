@@ -1,3 +1,0 @@
-- [ ] freebsd
-- [ ] openbsd
-- [ ] netbsd

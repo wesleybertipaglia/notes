@@ -1,5 +1,0 @@
-- [ ] ps
-- [ ] top
-- [ ] htop
-- [ ] atop
-- [ ] lsof
