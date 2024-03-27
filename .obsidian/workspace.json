@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "374b5e9c7541dc1a",
+        "id": "21027a208fe39d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "f5eeefd2520f7b64",
+            "id": "4cd9a0be52ea56e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
+                "file": "guides/hugo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
+                "file": "guides/hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
+                "file": "guides/hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md"
+                "file": "guides/hugo.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5eeefd2520f7b64",
+  "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/new-relic.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/datadog.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/appdynamics.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/sops.md",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/application",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs",
-    "roadmaps/4.devops/3.infrastructure/5.monitoring",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/vault.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/cloud-specific-tools.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/sealed-secrets.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/jenkins.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/secret",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/drone.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/travis-ci.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/github-actions.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/circle-ci.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd/gitlab-ci.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/puppet.md",
-    "roadmaps/4.devops/3.infrastructure/4.ci-cd",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/chef.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/ansible.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/gcp-functions.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/aws-lambda.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/azure-functions.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/cloudflare.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure/aws-cdk.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure/cloud-formation.md",
-    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure",
-    "roadmaps/4.devops/3.infrastructure",
+    "roadmaps/1.algorithms/4.problem-solving.md",
+    "roadmaps/2.web/7.sites-generators",
+    "roadmaps/1.algorithms/3.advanced.md",
+    "roadmaps/1.algorithms/2.data-structures.md",
+    "roadmaps/1.algorithms/1.introduction.md",
+    "guides/hugo.md",
+    "roadmaps/4.devops/3.infrastructure/2.server/nginx.md",
+    "roadmaps/4.devops/3.infrastructure/2.server/caddy.md",
+    "roadmaps/4.devops/3.infrastructure/2.server/apache.md",
+    "roadmaps/4.devops/3.containers/kubernets.md",
+    "roadmaps/4.devops/3.containers/docker-swarm.md",
+    "roadmaps/4.devops/3.containers/docker.md",
+    "roadmaps/4.devops/1.os/unix.md",
+    "roadmaps/4.devops/1.os/linux.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/utilities.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/sed.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/awk.md",
+    "roadmaps/4.devops/2.terminal/monitoring/process.md",
+    "roadmaps/4.devops/2.terminal/monitoring/performance.md",
+    "roadmaps/4.devops/2.terminal/monitoring/networking.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/grep.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/cut.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/uniq.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation/sort.md",
+    "roadmaps/4.devops/2.terminal/editors/nano.md",
+    "roadmaps/4.devops/2.terminal/monitoring",
+    "roadmaps/4.devops/2.terminal/editors/emacs.md",
+    "roadmaps/4.devops/2.terminal/editors/neovim.md",
+    "roadmaps/4.devops/2.terminal/text-manipulation",
+    "roadmaps/4.devops/2.terminal/editors",
+    "roadmaps/4.devops/2.terminal/scripting",
+    "roadmaps/5.architecture/4.frameworks",
+    "roadmaps/5.architecture/6.data",
+    "roadmaps/5.architecture/5.api-integrations",
+    "roadmaps/5.architecture/1.basics",
+    "roadmaps/5.architecture/2.responsabilities",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
