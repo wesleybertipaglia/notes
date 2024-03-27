@@ -17,7 +17,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "/home/Documents/notes",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,

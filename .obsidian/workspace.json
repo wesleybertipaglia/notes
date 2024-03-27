@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "73c1823db3c9222d",
+        "id": "d2d1872417dc8306",
         "type": "tabs",
         "children": [
           {
-            "id": "6454ba239e750635",
+            "id": "31798138fa21e14f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmaps/algorithms/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f4a1bc9d498476a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmaps/algorithms/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/algorithms/Introduction.md",
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/algorithms/Introduction.md",
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/algorithms/Introduction.md"
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md"
               }
             }
           }
@@ -159,30 +142,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f4a1bc9d498476a",
+  "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "roadmaps/algorithms/Data Structures.md",
-    "roadmaps/algorithms/Introduction.md",
-    "roadmaps/architecture/Monolitic.md",
-    "roadmaps/architecture/Micro Services.md",
-    "roadmaps/infrastructure/Monitoring.md",
-    "roadmaps/architecture",
-    "roadmaps/infrastructure/CI & CD.md",
-    "roadmaps/infrastructure/Containers.md",
-    "README.md",
-    "roadmaps/infrastructure",
-    "roadmaps/iot",
-    "roadmaps/desktop",
-    "roadmaps/back-end",
-    "roadmaps/mobile",
-    "roadmaps/web",
-    "roadmaps/algorithms",
-    "roadmaps",
-    "blog/first-time-at-obsidian.md",
-    "blog/hello-from-hugo.md",
-    "guides/hugo-guide.md",
-    "My first time at Obsidian.md",
-    "2023-12-26.md",
+    "roadmaps/3.back-end/6.message-brokers/rabbitmq.md",
+    "roadmaps/3.back-end/6.message-brokers/kafka.md",
+    "roadmaps/5.architecture/patterns/service-mesh.md",
+    "roadmaps/3.back-end/6.message-brokers",
+    "roadmaps/5.architecture/patterns/serverless.md",
+    "roadmaps/5.architecture/patterns/soa.md",
+    "roadmaps/5.architecture/patterns/monolitic.md",
+    "roadmaps/5.architecture/patterns",
+    "roadmaps/5.architecture/patterns/micro-services.md",
+    "roadmaps/4.devops/9.security.md",
+    "roadmaps/4.devops/8.monitoring-observability.md",
+    "roadmaps/4.devops/7.configuration-management.md",
+    "roadmaps/4.devops/6.ci-cd.md",
+    "roadmaps/4.devops/7.continuous-deployment.md",
+    "roadmaps/4.devops/5.infrastructure-as-code.md",
+    "roadmaps/4.devops/4.cloud.md",
+    "roadmaps/4.devops/3.containers.md",
+    "roadmaps/4.devops/2.linux.md",
+    "roadmaps/4.devops/1.principles.md",
+    "roadmaps/4.devops/cloud.md",
+    "roadmaps/3.back-end/4.security/apis.md",
+    "roadmaps/3.back-end/4.security/protections.md",
+    "roadmaps/3.back-end/4.security/auth.md",
+    "roadmaps/3.back-end/4.security/cors.md",
+    "roadmaps/3.back-end/4.security/hasing.md",
+    "roadmaps/3.back-end/5.caching/server-side.md",
+    "roadmaps/3.back-end/5.caching/client-side.md",
+    "roadmaps/3.back-end/5.caching/cdn.md",
+    "roadmaps/3.back-end/5.caching",
+    "roadmaps/3.back-end/4.security/auth",
+    "roadmaps/3.back-end/4.security",
+    "roadmaps/3.back-end/3.apis",
+    "roadmaps/3.back-end/2.databases/nosql",
+    "roadmaps/3.back-end/2.databases/sql",
+    "roadmaps/3.back-end/2.databases",
+    "roadmaps/3.back-end/1.programming/nodejs/orms",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
