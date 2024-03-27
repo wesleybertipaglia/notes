@@ -1,4 +1,0 @@
-- [ ] md5
-- [ ] sha
-- [ ] scrypt
-- [ ] bcrypt

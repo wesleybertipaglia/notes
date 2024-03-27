@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f191c3d20746a4c",
+        "id": "0774349fcab3d893",
         "type": "tabs",
         "children": [
           {
-            "id": "8ade30fcfa38ddf9",
+            "id": "5c9e763f356b077c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b653c490acf613",
+  "active": "5c9e763f356b077c",
   "lastOpenFiles": [
-    "roadmaps/2.web/5.libraries/react/frameworks/next/3.get-started.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/next/2.roadmap.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/next/1.introduction.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/next",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/3.get-started.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/2.roadmap.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/1.introduction.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/3.get-started.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/2.roadmap.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/1.introduction.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus",
-    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/3.get-started.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/2.roadmap.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/1.introduction.md",
-    "roadmaps/2.web/5.libraries/react/frameworks/vuepress",
-    "roadmaps/2.web/5.libraries/react/frameworks",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/3.get-started.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/2.roadmap.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/1.introduction.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/3.get-started.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/2.roadmap.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/1.introduction.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)",
-    "roadmaps/2.web/7.sites-generators/hexo/3.get-started.md",
-    "roadmaps/2.web/7.sites-generators/hexo/2.roadmap.md",
-    "roadmaps/2.web/7.sites-generators/hexo/1.introduction.md",
-    "roadmaps/2.web/7.sites-generators/hexo",
-    "roadmaps/2.web/7.sites-generators/jekyll (copy)/3.get-started.md",
-    "roadmaps/2.web/7.sites-generators/jekyll (copy)/2.roadmap.md",
-    "roadmaps/2.web/7.sites-generators/jekyll (copy)/1.introduction.md",
-    "roadmaps/2.web/7.sites-generators/jekyll (copy)",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt/3.get-started.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt/2.roadmap.md",
-    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt",
+    "roadmaps/2.web/3.build/task-runners/gulp/3.get-started.md",
+    "roadmaps/2.web/3.build/task-runners/gulp/2.roadmap.md",
+    "roadmaps/2.web/3.build/task-runners/gulp/1.introduction.md",
+    "roadmaps/2.web/3.build/task-runners/gulp",
+    "roadmaps/2.web/3.build/task-runners/grunt (copy)/3.get-started.md",
+    "roadmaps/2.web/3.build/task-runners/grunt (copy)/2.roadmap.md",
+    "roadmaps/2.web/3.build/task-runners/grunt (copy)/1.introduction.md",
+    "roadmaps/2.web/3.build/task-runners/grunt (copy)",
+    "roadmaps/2.web/3.build/task-runners/grunt/3.get-started.md",
+    "roadmaps/2.web/3.build/task-runners/grunt/2.roadmap.md",
+    "roadmaps/2.web/3.build/task-runners/grunt/1.introduction.md",
+    "roadmaps/2.web/3.build/task-runners/grunt",
+    "roadmaps/2.web/3.build/task-runners/npm (copy)/3.get-started.md",
+    "roadmaps/2.web/3.build/task-runners/npm (copy)/2.roadmap.md",
+    "roadmaps/2.web/3.build/task-runners/npm (copy)/1.introduction.md",
+    "roadmaps/2.web/3.build/task-runners/npm (copy)",
+    "roadmaps/2.web/3.build/task-runners/npm/3.get-started.md",
+    "roadmaps/2.web/3.build/task-runners/npm/2.roadmap.md",
+    "roadmaps/2.web/3.build/task-runners/npm/1.introduction.md",
+    "roadmaps/2.web/3.build/task-runners/npm",
+    "roadmaps/2.web/3.build/packages-managers/pnpm/3.get-started.md",
+    "roadmaps/2.web/3.build/packages-managers/pnpm/2.roadmap.md",
+    "roadmaps/2.web/3.build/packages-managers/pnpm/1.introduction.md",
+    "roadmaps/2.web/3.build/packages-managers/pnpm",
+    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/3.get-started.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/2.roadmap.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn (copy)/1.introduction.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn (copy)",
+    "roadmaps/2.web/3.build/packages-managers/yarn/3.get-started.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn/2.roadmap.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn/1.introduction.md",
+    "roadmaps/2.web/3.build/packages-managers/yarn",
+    "roadmaps/2.web/3.build/packages-managers/npm (copy)/3.get-started.md",
+    "roadmaps/2.web/3.build/packages-managers/npm (copy)/2.roadmap.md",
+    "roadmaps/2.web/3.build/packages-managers/npm (copy)",
+    "roadmaps/2.web/3.build/packages-managers/npm",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

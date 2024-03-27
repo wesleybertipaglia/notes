@@ -1,2 +1,0 @@
-- [ ] injection
-- [ ] cross site scripting

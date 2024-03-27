@@ -1,6 +1,0 @@
-- [ ] https
-- [ ] cors
-- [ ] owasp
-- [ ] ssl/tsl
-- [ ] csp
-- [ ] server security
