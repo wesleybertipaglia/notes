@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "998ba08c6bee67d5",
+        "id": "8f191c3d20746a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b426ea3e0bf2975",
+            "id": "8ade30fcfa38ddf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
+                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
+                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
+                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md"
+                "file": "roadmaps/2.web/7.sites-generators/hugo/3.get-started.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "roadmaps/3.back-end/1.programming/python/frameworks/fast-api/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/flask/1.introduction.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/flask/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/python/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/2.roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/2.roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/2.roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/symphony/2.roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/symphony/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/php/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/frameworks/fastify/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/frameworks/express/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/orms/typeorm/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/orms/sequelize/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/orms/prisma/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/nodejs/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/spring-boot/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/ktor/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/kotlin/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/quarkus/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-boot/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-framework/3.get-started.md",
-    "roadmaps/3.back-end/1.programming/java/3.get-started.md",
-    "roadmaps/3.back-end/2.databases/sql/sqlite",
-    "roadmaps/3.back-end/2.databases/sql/sql-server",
-    "roadmaps/3.back-end/2.databases/sql/postgresql",
-    "roadmaps/3.back-end/2.databases/sql/oracledb",
-    "roadmaps/3.back-end/2.databases/sql/mysql",
-    "roadmaps/3.back-end/2.databases/sql/mariadb",
-    "roadmaps/3.back-end/1.programming/csharp/frameworks/dotnet",
-    "roadmaps/3.back-end/1.programming/csharp/frameworks/aspnet",
-    "roadmaps/3.back-end/1.programming/go/frameworks/echo",
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-framework",
+    "roadmaps/2.web/5.libraries/react/frameworks/next/3.get-started.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/next/2.roadmap.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/next/1.introduction.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/next",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/3.get-started.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/2.roadmap.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)/1.introduction.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus (copy)",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/3.get-started.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/2.roadmap.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus/1.introduction.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/docusaurus",
+    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/3.get-started.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/2.roadmap.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/vuepress/1.introduction.md",
+    "roadmaps/2.web/5.libraries/react/frameworks/vuepress",
+    "roadmaps/2.web/5.libraries/react/frameworks",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/3.get-started.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/2.roadmap.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress/1.introduction.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/vuepress",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/3.get-started.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/2.roadmap.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)/1.introduction.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt (copy)",
+    "roadmaps/2.web/7.sites-generators/hexo/3.get-started.md",
+    "roadmaps/2.web/7.sites-generators/hexo/2.roadmap.md",
+    "roadmaps/2.web/7.sites-generators/hexo/1.introduction.md",
+    "roadmaps/2.web/7.sites-generators/hexo",
+    "roadmaps/2.web/7.sites-generators/jekyll (copy)/3.get-started.md",
+    "roadmaps/2.web/7.sites-generators/jekyll (copy)/2.roadmap.md",
+    "roadmaps/2.web/7.sites-generators/jekyll (copy)/1.introduction.md",
+    "roadmaps/2.web/7.sites-generators/jekyll (copy)",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt/3.get-started.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt/2.roadmap.md",
+    "roadmaps/2.web/6.frameworks/vue/frameworks/nuxt",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
