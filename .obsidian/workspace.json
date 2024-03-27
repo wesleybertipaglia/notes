@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d1872417dc8306",
+        "id": "374b5e9c7541dc1a",
         "type": "tabs",
         "children": [
           {
-            "id": "31798138fa21e14f",
+            "id": "f5eeefd2520f7b64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md",
+                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md",
+                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/3.back-end/6.message-brokers/kafka.md"
+                "file": "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md"
               }
             }
           }
@@ -142,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b653c490acf613",
+  "active": "f5eeefd2520f7b64",
   "lastOpenFiles": [
-    "roadmaps/3.back-end/6.message-brokers/rabbitmq.md",
-    "roadmaps/3.back-end/6.message-brokers/kafka.md",
-    "roadmaps/5.architecture/patterns/service-mesh.md",
-    "roadmaps/3.back-end/6.message-brokers",
-    "roadmaps/5.architecture/patterns/serverless.md",
-    "roadmaps/5.architecture/patterns/soa.md",
-    "roadmaps/5.architecture/patterns/monolitic.md",
-    "roadmaps/5.architecture/patterns",
-    "roadmaps/5.architecture/patterns/micro-services.md",
-    "roadmaps/4.devops/9.security.md",
-    "roadmaps/4.devops/8.monitoring-observability.md",
-    "roadmaps/4.devops/7.configuration-management.md",
-    "roadmaps/4.devops/6.ci-cd.md",
-    "roadmaps/4.devops/7.continuous-deployment.md",
-    "roadmaps/4.devops/5.infrastructure-as-code.md",
-    "roadmaps/4.devops/4.cloud.md",
-    "roadmaps/4.devops/3.containers.md",
-    "roadmaps/4.devops/2.linux.md",
-    "roadmaps/4.devops/1.principles.md",
-    "roadmaps/4.devops/cloud.md",
-    "roadmaps/3.back-end/4.security/apis.md",
-    "roadmaps/3.back-end/4.security/protections.md",
-    "roadmaps/3.back-end/4.security/auth.md",
-    "roadmaps/3.back-end/4.security/cors.md",
-    "roadmaps/3.back-end/4.security/hasing.md",
-    "roadmaps/3.back-end/5.caching/server-side.md",
-    "roadmaps/3.back-end/5.caching/client-side.md",
-    "roadmaps/3.back-end/5.caching/cdn.md",
-    "roadmaps/3.back-end/5.caching",
-    "roadmaps/3.back-end/4.security/auth",
-    "roadmaps/3.back-end/4.security",
-    "roadmaps/3.back-end/3.apis",
-    "roadmaps/3.back-end/2.databases/nosql",
-    "roadmaps/3.back-end/2.databases/sql",
-    "roadmaps/3.back-end/2.databases",
-    "roadmaps/3.back-end/1.programming/nodejs/orms",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/new-relic.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/open-telemetry.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/datadog.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application/appdynamics.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/datadog.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/grafana.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure/prometheus.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/sops.md",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/application",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/infrastructure",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring/logs",
+    "roadmaps/4.devops/3.infrastructure/5.monitoring",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/vault.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/cloud-specific-tools.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/secret/sealed-secrets.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/jenkins.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/secret",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/drone.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/travis-ci.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/github-actions.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/circle-ci.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd/gitlab-ci.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/puppet.md",
+    "roadmaps/4.devops/3.infrastructure/4.ci-cd",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/chef.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration/ansible.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/gcp-functions.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/configuration",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/aws-lambda.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/azure-functions.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless/cloudflare.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure/aws-cdk.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/serverless",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure/cloud-formation.md",
+    "roadmaps/4.devops/3.infrastructure/3.cloud/infrastructure",
+    "roadmaps/4.devops/3.infrastructure",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
