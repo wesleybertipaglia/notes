@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "71be8e16ba5c27ea",
+        "id": "998ba08c6bee67d5",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1861c4eff71580",
+            "id": "4b426ea3e0bf2975",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "roadmaps/3.back-end/1.programming/python/frameworks/django/3.get-started.md"
+              }
             }
           }
         ]
@@ -138,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1861c4eff71580",
+  "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-framework/tutorial.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-boot/tutorial.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/quarkus/tutorial.md",
+    "roadmaps/3.back-end/1.programming/python/frameworks/fast-api/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/python/frameworks/flask/1.introduction.md",
+    "roadmaps/3.back-end/1.programming/python/frameworks/flask/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/python/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/2.roadmap.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/2.roadmap.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/2.roadmap.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/symphony/2.roadmap.md",
+    "roadmaps/3.back-end/1.programming/php/frameworks/symphony/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/php/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/frameworks/fastify/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/frameworks/express/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/orms/typeorm/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/orms/sequelize/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/orms/prisma/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/nodejs/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/kotlin/frameworks/spring-boot/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/kotlin/frameworks/ktor/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/kotlin/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/java/frameworks/quarkus/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/java/frameworks/spring-boot/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/java/frameworks/spring-framework/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/java/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/sql/sqlite",
+    "roadmaps/3.back-end/2.databases/sql/sql-server",
+    "roadmaps/3.back-end/2.databases/sql/postgresql",
+    "roadmaps/3.back-end/2.databases/sql/oracledb",
+    "roadmaps/3.back-end/2.databases/sql/mysql",
+    "roadmaps/3.back-end/2.databases/sql/mariadb",
+    "roadmaps/3.back-end/1.programming/csharp/frameworks/dotnet",
+    "roadmaps/3.back-end/1.programming/csharp/frameworks/aspnet",
+    "roadmaps/3.back-end/1.programming/go/frameworks/echo",
     "roadmaps/3.back-end/1.programming/java/frameworks/spring-framework",
-    "roadmaps/3.back-end/1.programming/java/frameworks/spring-boot",
-    "roadmaps/3.back-end/1.programming/java/tutorial.md",
-    "roadmaps/3.back-end/1.programming/java/frameworks/quarkus",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/spring-boot/tutorial.md",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/ktor/tutorial.md",
-    "roadmaps/3.back-end/1.programming/kotlin/tutorial.md",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/spring-boot",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/ktor/roadmap.md",
-    "roadmaps/3.back-end/1.programming/kotlin/frameworks/ktor",
-    "roadmaps/3.back-end/1.programming/kotlin/roadmap.md",
-    "roadmaps/3.back-end/1.programming/python/tutorial.md",
-    "roadmaps/3.back-end/1.programming/python/roadmap.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/flask/tutorial.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/fast-api/tutorial.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/flask",
-    "roadmaps/3.back-end/1.programming/python/frameworks/fast-api/roadmap.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/flask/roadmap.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/django/tutorial.md",
-    "roadmaps/3.back-end/1.programming/python/frameworks/fast-api",
-    "roadmaps/3.back-end/1.programming/python/frameworks/django",
-    "roadmaps/3.back-end/1.programming/php/tutorial.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/symphony/tutorial.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/tutorial.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/tutorial.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/tutorial.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter/roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/symphony",
-    "roadmaps/3.back-end/1.programming/php/frameworks/cake-php/roadmap.md",
-    "roadmaps/3.back-end/1.programming/php/frameworks/codeigniter",
-    "roadmaps/3.back-end/1.programming/php/frameworks/laravel/roadmap.md",
-    "roadmaps/3.back-end/1.programming/nodejs/tutorial.md",
-    "roadmaps/3.back-end/1.programming/nodejs/orms/typeorm/tutorial.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
