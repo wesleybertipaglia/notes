@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f4a1bc9d498476a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/algorithms/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b653c490acf613",
+  "active": "2f4a1bc9d498476a",
   "lastOpenFiles": [
-    "roadmaps/architecture/Monolitic.md",
+    "roadmaps/algorithms/Data Structures.md",
     "roadmaps/algorithms/Introduction.md",
+    "roadmaps/architecture/Monolitic.md",
     "roadmaps/architecture/Micro Services.md",
     "roadmaps/infrastructure/Monitoring.md",
     "roadmaps/architecture",

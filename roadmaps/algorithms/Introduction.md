@@ -1,1 +1,14 @@
-### 1. What are Algorithms? - Definition - Importance ### 2. Analysis of Algorithms - Time Complexity - Space Complexity - Asymptotic Notations (Big O, Omega, Theta) ### 3. Algorithm Design Techniques - Brute Force - Divide and Conquer - Greedy Algorithms - Dynamic Programming - Backtracking - Randomized Algorithms
+## 1. What are Algorithms? 
+- [ ] Definition 
+- [ ] Importance 
+## 2. Analysis of Algorithms 
+- [ ] Time Complexity 
+- [ ] Space Complexity 
+- [ ] Asymptotic Notations (Big O, Omega, Theta) 
+## 3. Algorithm Design Techniques 
+- [ ] Brute Force 
+- [ ] Divide and Conquer 
+- [ ] Greedy Algorithms 
+- [ ] Dynamic Programming 
+- [ ] Backtracking 
+- [ ] Randomized Algorithms
