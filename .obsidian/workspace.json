@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "847e26d56a41f8c3",
+        "id": "a154d12909838437",
         "type": "tabs",
         "children": [
           {
-            "id": "0d03605245d973f5",
+            "id": "84e4148fae48a111",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:hooks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md"
+              }
             }
           }
         ]
@@ -138,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d03605245d973f5",
+  "active": "84e4148fae48a111",
   "lastOpenFiles": [
-    "roadmaps/2.web/7.user-interface/ui-libraries/material-ui/3.get-started.md",
-    "roadmaps/2.web/7.user-interface/ui-libraries/material-ui/2.roadmap.md",
-    "roadmaps/2.web/7.user-interface/ui-libraries/material-ui/1.introduction.md",
-    "roadmaps/2.web/7.user-interface/ui-libraries/material-ui",
-    "roadmaps/2.web/7.user-interface/css-in-js/stylex/3.get-started.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/stylex/2.roadmap.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/stylex/1.introduction.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/stylex",
-    "roadmaps/2.web/7.user-interface/css-in-js/emoticon (copy)/3.get-started.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/emoticon (copy)/2.roadmap.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/emoticon (copy)/1.introduction.md",
-    "roadmaps/2.web/7.user-interface/css-in-js/emoticon (copy)",
-    "roadmaps/2.web/1.basics/5.git/1.introduction.md",
-    "roadmaps/2.web/3.build/compilers/babel/1.introduction.md",
-    "roadmaps/2.web/3.build/compilers/babel/3.get-started.md",
-    "roadmaps/2.web/2.javascript/5.web-apis/3.get-started.md",
-    "roadmaps/2.web/2.javascript/5.web-apis/1.introduction.md",
-    "roadmaps/2.web/2.javascript/4.json/1.introduction.md",
-    "roadmaps/2.web/2.javascript/4.json/3.get-started.md",
-    "roadmaps/2.web/2.javascript/3.bom/3.get-started.md",
-    "roadmaps/2.web/2.javascript/3.bom/1.introduction.md",
-    "roadmaps/2.web/2.javascript/2.dom/3.get-started.md",
-    "roadmaps/2.web/2.javascript/2.dom/1.introduction.md",
-    "roadmaps/2.web/2.javascript/1.language/3.get-started.md",
-    "roadmaps/2.web/2.javascript/1.language/1.introduction.md",
-    "roadmaps/2.web/1.basics/5.git/3.get-started.md",
-    "roadmaps/2.web/1.basics/2.http/3.get-started.md",
-    "roadmaps/2.web/1.basics/3.html/3.get-started.md",
-    "roadmaps/2.web/2.javascript/3.bom/2.roadmap.md",
-    "roadmaps/2.web/1.basics/4.css/frameworks/formantic-ui",
-    "roadmaps/2.web/1.basics/4.css/frameworks/foundation (copy)",
-    "roadmaps/2.web/1.basics/4.css/frameworks/foundation",
-    "roadmaps/2.web/1.basics/4.css/frameworks/skeleton",
-    "roadmaps/2.web/1.basics/4.css/frameworks/for (copy)",
-    "roadmaps/2.web/1.basics/4.css/frameworks/for",
-    "roadmaps/2.web/1.basics/4.css/frameworks/bulma (copy)",
+    "roadmaps/3.back-end/6.message-brokers/rabbitmq/1.introduction.md",
+    "roadmaps/3.back-end/6.message-brokers/rabbitmq/3.get-started.md",
+    "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/redis/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/nosql/redis/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/mongodb/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/nosql/mongodb/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/firebase/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/nosql/firebase/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/couchdb/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/dynamodb/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/nosql/cassandra/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/nosql/cassandra/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/sqlite/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/sql-server/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/sql-server/2.roadmap.md",
+    "roadmaps/3.back-end/2.databases/sql/mysql/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/postgresql/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/postgresql/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/sql/mysql/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/sql/oracledb/1.introduction.md",
+    "roadmaps/3.back-end/2.databases/sql/mariadb/3.get-started.md",
+    "roadmaps/3.back-end/2.databases/sql/mariadb/1.introduction.md",
+    "roadmaps/3.back-end/1.programming/python/3.get-started.md",
+    "roadmaps/3.back-end/1.programming/python/1.introduction.md",
+    "roadmaps/3.back-end/1.programming/python/frameworks/flask/1.introduction.md",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/node/frameworks/fastify",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/node/frameworks/express",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/node/frameworks",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/node",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/deno/frameworks/fastify",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/deno/frameworks/express",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/deno/frameworks",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/deno",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/bun (copy)/frameworks/fastify",
+    "roadmaps/3.back-end/1.programming/javascript/runtimes/bun (copy)/frameworks/express",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

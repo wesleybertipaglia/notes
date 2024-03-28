@@ -5,6 +5,7 @@
     "tags": "tags",
     "website": "multitext",
     "videos": "multitext",
-    "documentation": "multitext"
+    "documentation": "multitext",
+    "resources": "multitext"
   }
 }
