@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
+                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
+                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
+                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md"
+                "file": "content/study/2.web/6.frameworks/astro/Astro.md"
               }
             }
           },
@@ -173,13 +173,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6b653c490acf613",
+  "active": "f75ee412dbd60fbb",
   "lastOpenFiles": [
+    "content/study/3.back-end/1.programming/csharp/Csharp.md",
+    "content/study/2.web/6.frameworks/angular/Angular.md",
+    "content/study/2.web/6.frameworks/angular/1.introduction.md",
     "content/study/2.web/4.testing/1.introduction.md",
     "content/study/2.web/6.frameworks/astro/1.introduction.md",
-    "content/study/2.web/6.frameworks/angular/1.introduction.md",
     "obsidian/templates/pages/tutorial-template.md",
-    "content/study/2.web/6.frameworks/angular/Angular.md",
     "content/study/2.web/6.frameworks/astro/Astro.md",
     "content/study/2.web/5.libraries/jquery/Jquery.md",
     "content/study/2.web/5.libraries/react/React.md",
@@ -200,7 +201,6 @@
     "content/study/2.web/4.testing/selenium/1.introduction.md",
     "content/study/2.web/4.testing/playwright/Playwright.md",
     "content/study/2.web/4.testing/playwright/1.introduction.md",
-    "content/study/2.web/4.testing/mocha/Mocha.md",
     "content/study/2.web/7.style/ui-libraries/tamagui",
     "content/study/2.web/7.style/ui-libraries/shadcn-ui",
     "content/study/2.web/7.style/ui-libraries/radix-ui",
