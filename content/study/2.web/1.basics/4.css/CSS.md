@@ -8,6 +8,8 @@ resources:
 videos: 
 tags:
   - tech
-ref: "[[HTTP]]"
-date: 2024-03-28 13:22
+ref:
+  - "[[Web]]"
+  - "[[Front-end]]"
+date: 2024-03-28 14:11
 ---

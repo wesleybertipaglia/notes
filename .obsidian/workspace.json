@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmaps/2.web/1.basics/1.internet/1.introduction.md",
+                "file": "obsidian/groups/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/2.web/1.basics/1.internet/1.introduction.md",
+                "file": "obsidian/groups/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/2.web/1.basics/1.internet/1.introduction.md",
+                "file": "obsidian/groups/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/2.web/1.basics/1.internet/1.introduction.md"
+                "file": "obsidian/groups/Algorithms.md"
               }
             }
           },
@@ -164,43 +164,43 @@
   },
   "active": "66a6c41d443fe3fe",
   "lastOpenFiles": [
-    "roadmaps/2.web/1.basics/1.internet/Internet.md",
-    "roadmaps/2.web/1.basics/1.internet/1.introduction.md",
-    "roadmaps/2.web/1.basics/2.http/1.introduction.md",
-    "roadmaps/2.web/1.basics/2.http/HTTP.md",
-    "roadmaps/2.web/1.basics/3.html/1.introcution.md",
-    "roadmaps/2.web/1.basics/3.html/HTML.md",
-    "groups/Programming.md",
-    "groups/Databases.md",
-    "groups/Back-end.md",
-    "groups/Front-end.md",
-    "groups/Architecture.md",
-    "groups/Patterns.md",
-    "groups/Algorithms.md",
-    "groups/Web.md",
-    "roadmaps/2.web/1.basics/3.html/2.roadmap.md",
-    "roadmaps/2.web/1.basics/3.html/3.get-started.md",
-    "roadmaps/2.web/1.basics/2.http/3.get-started.md",
-    "roadmaps/2.web/1.basics/2.http/2.roadmap.md",
-    "roadmaps/2.web/1.basics/1.internet/2.roadmap.md",
-    "roadmaps/1.algorithms/04. Problem Solving.md",
-    "roadmaps/1.algorithms/03. Advanced.md",
-    "roadmaps/1.algorithms/02. Data Structures.md",
-    "roadmaps/1.algorithms/01. Introduction.md",
-    "groups/Network.md",
-    "groups/Internet.md",
-    "groups/Data Structures.md",
-    "groups",
-    "templates/utils",
-    "templates/pages",
+    "obsidian/groups/Programming.md",
+    "content",
+    "obsidian",
+    "obsidian/groups/Web.md",
+    "obsidian/groups/Patterns.md",
+    "obsidian/groups/Network.md",
+    "obsidian/groups/Front-end.md",
+    "obsidian/groups/Databases.md",
+    "obsidian/groups/Data Structures.md",
+    "obsidian/groups/Back-end.md",
+    "obsidian/groups/Architecture.md",
+    "obsidian/groups/Algorithms.md",
+    "obsidian/templates/pages/tutorial-template.md",
+    "obsidian/templates/pages/technology-template.md",
+    "obsidian/templates/pages/note-template.md",
+    "obsidian/templates/pages/concept-template.md",
+    "obsidian/templates/pages/group-template.md",
+    "templates/pages/group.md",
+    "templates/pages/concept (copy).md",
+    "content/study/1.algorithms/01. Introduction.md",
+    "content/study/2.web/1.basics/4.css/1.introduction.md",
+    "content/study/2.web/1.basics/4.css/CSS.md",
+    "content/study/2.web/1.basics/4.css/3.get-started.md",
+    "content/study/2.web/1.basics/4.css/2.roadmap.md",
+    "content/study/2.web/1.basics/1.internet/Internet.md",
+    "content/study/2.web/1.basics/2.http/1.introduction.md",
+    "content/study/2.web/1.basics/3.html/1.introcution.md",
+    "content/study/2.web/1.basics/1.internet/1.introduction.md",
+    "obsidian/groups",
+    "obsidian/templates/utils",
+    "obsidian/templates/pages",
     "read",
-    "notes",
-    "projects",
+    "content/notes",
+    "content/projects",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "templates",
-    "roadmaps/1.algorithms/2.roadmap",
-    "roadmaps/3.back-end/1.programming/javascript/runtimes/node/frameworks/fastify",
-    "roadmaps/3.back-end/1.programming/javascript/runtimes/node/frameworks/express"
+    "obsidian/templates",
+    "roadmaps/1.algorithms/2.roadmap"
   ]
 }

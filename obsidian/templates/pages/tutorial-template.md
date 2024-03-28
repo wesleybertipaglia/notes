@@ -6,5 +6,5 @@ videos:
 tags:
   - tutorial
 ref:
-date: {{date:YYYY-MM-DD HH:mm}}
+date: {{date}}T{{time}}
 ---
