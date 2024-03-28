@@ -6,6 +6,7 @@ resources:
 videos: 
 groups:
   - "[[Versioning]]"
+  - "[[Tools]]"
 tags:
   - groups
 ---

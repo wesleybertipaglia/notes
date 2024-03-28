@@ -4,7 +4,9 @@ description:
 road-map: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[Web]]"
+  - "[[Front-end]]"
 tags:
   - groups
 ---

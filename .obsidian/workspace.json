@@ -18,18 +18,19 @@
             }
           },
           {
-            "id": "02e47e0d0be0fd12",
+            "id": "699b62093a5fd859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/2.web/2.javascript/2.dom/1.introduction.md",
+                "file": "content/study/2.web/5.libraries/react/React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/study/2.web/5.libraries/react/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/study/2.web/5.libraries/react/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/study/2.web/5.libraries/react/React.md"
+              }
             }
           },
           {
@@ -168,34 +173,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d96d56c71e31f78",
+  "active": "699b62093a5fd859",
   "lastOpenFiles": [
-    "content/study/2.web/2.javascript/2.dom/1.introduction.md",
-    "content/study/5.architecture/1.basics/levels-architecture.md",
-    "content/study/5.architecture/1.basics/software-architecture.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/Puppet.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/Chef.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/Ansible.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/2.server/tomcat/Tomcat.md",
-    "content/study/4.devops/3.infrastructure/2.server/tomcat/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/2.server/tomcat/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/2.server/nginx/Nginx.md",
-    "content/study/4.devops/3.infrastructure/2.server/nginx/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/2.server/nginx/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/2.server/caddy/Caddy.md",
-    "content/study/4.devops/3.infrastructure/2.server/caddy/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/2.server/caddy/1.introduction.md",
-    "content/study/4.devops/3.infrastructure/2.server/apache/Apache.md",
-    "content/study/4.devops/3.infrastructure/2.server/apache/RabbitMQ.md",
-    "content/study/4.devops/3.infrastructure/2.server/apache/1.introduction.md",
-    "content/study/4.devops/3.containers/kubernets/Kubernets.md",
-    "content/study/4.devops/3.containers/kubernets/RabbitMQ.md",
+    "content/study/2.web/6.frameworks/angular/Angular.md",
+    "content/study/2.web/4.testing/cypress/Cypress.md",
+    "content/study/2.web/5.libraries/jquery/Jquery.md",
+    "content/study/2.web/5.libraries/react/1.introduction.md",
+    "content/study/2.web/5.libraries/react/React.md",
+    "content/study/2.web/6.frameworks/angular/1.introduction.md",
+    "obsidian/groups/Build.md",
+    "content/study/2.web/3.build/compilers/babel/Babel.md",
+    "obsidian/groups/Build (copy).md",
+    "obsidian/groups/Web (copy).md",
+    "obsidian/groups/Frameworks.md",
+    "obsidian/groups/Libraries (copy).md",
+    "obsidian/groups/Libraries.md",
+    "content/study/2.web/5.libraries/Libraries.md",
+    "content/study/2.web/5.libraries/jquery/1.introduction.md",
+    "content/study/2.web/4.testing/vitest/Vitest.md",
+    "content/study/2.web/4.testing/vitest/1.introduction.md",
+    "content/study/2.web/4.testing/selenium/Selenium.md",
+    "content/study/2.web/4.testing/selenium/1.introduction.md",
+    "content/study/2.web/4.testing/playwright/Playwright.md",
+    "content/study/2.web/4.testing/playwright/1.introduction.md",
+    "content/study/2.web/4.testing/mocha/Mocha.md",
+    "content/study/2.web/4.testing/mocha/1.introduction.md",
+    "content/study/2.web/4.testing/jest/Jest.md",
+    "content/study/2.web/4.testing/jest/1.introduction.md",
+    "content/study/2.web/4.testing/cypress/1.introduction.md",
     "content/study/2.web/7.style/ui-libraries/tamagui",
     "content/study/2.web/7.style/ui-libraries/shadcn-ui",
     "content/study/2.web/7.style/ui-libraries/radix-ui",
