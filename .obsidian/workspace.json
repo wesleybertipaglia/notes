@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0404227ffdc15d10",
+        "id": "76e6fd8e4a510e63",
         "type": "tabs",
         "children": [
           {
-            "id": "66a6c41d443fe3fe",
+            "id": "3d96d56c71e31f78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "02e47e0d0be0fd12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/groups/Back-end.md",
+                "file": "content/study/2.web/2.javascript/2.dom/1.introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/groups/Back-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/groups/Back-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian/groups/Back-end.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,45 +168,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66a6c41d443fe3fe",
+  "active": "3d96d56c71e31f78",
   "lastOpenFiles": [
-    "obsidian/groups/Architecture.md",
-    "obsidian/groups/Algorithms.md",
-    "obsidian/groups/Programming.md",
-    "content",
-    "obsidian",
-    "obsidian/groups/Web.md",
-    "obsidian/groups/Patterns.md",
-    "obsidian/groups/Network.md",
-    "obsidian/groups/Front-end.md",
-    "obsidian/groups/Databases.md",
-    "obsidian/groups/Data Structures.md",
-    "obsidian/groups/Back-end.md",
-    "obsidian/templates/pages/tutorial-template.md",
-    "obsidian/templates/pages/technology-template.md",
-    "obsidian/templates/pages/note-template.md",
-    "obsidian/templates/pages/concept-template.md",
-    "obsidian/templates/pages/group-template.md",
-    "templates/pages/group.md",
-    "templates/pages/concept (copy).md",
-    "content/study/1.algorithms/01. Introduction.md",
-    "content/study/2.web/1.basics/4.css/1.introduction.md",
-    "content/study/2.web/1.basics/4.css/CSS.md",
-    "content/study/2.web/1.basics/4.css/3.get-started.md",
-    "content/study/2.web/1.basics/4.css/2.roadmap.md",
-    "content/study/2.web/1.basics/1.internet/Internet.md",
-    "content/study/2.web/1.basics/2.http/1.introduction.md",
-    "content/study/2.web/1.basics/3.html/1.introcution.md",
-    "content/study/2.web/1.basics/1.internet/1.introduction.md",
-    "obsidian/groups",
-    "obsidian/templates/utils",
-    "obsidian/templates/pages",
-    "read",
-    "content/notes",
-    "content/projects",
+    "content/study/2.web/2.javascript/2.dom/1.introduction.md",
+    "content/study/5.architecture/1.basics/levels-architecture.md",
+    "content/study/5.architecture/1.basics/software-architecture.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/Puppet.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/puppet/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/Chef.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/chef/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/Ansible.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/3.cloud/configuration/ansible/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/2.server/tomcat/Tomcat.md",
+    "content/study/4.devops/3.infrastructure/2.server/tomcat/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/2.server/tomcat/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/2.server/nginx/Nginx.md",
+    "content/study/4.devops/3.infrastructure/2.server/nginx/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/2.server/nginx/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/2.server/caddy/Caddy.md",
+    "content/study/4.devops/3.infrastructure/2.server/caddy/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/2.server/caddy/1.introduction.md",
+    "content/study/4.devops/3.infrastructure/2.server/apache/Apache.md",
+    "content/study/4.devops/3.infrastructure/2.server/apache/RabbitMQ.md",
+    "content/study/4.devops/3.infrastructure/2.server/apache/1.introduction.md",
+    "content/study/4.devops/3.containers/kubernets/Kubernets.md",
+    "content/study/4.devops/3.containers/kubernets/RabbitMQ.md",
+    "content/study/2.web/7.style/ui-libraries/tamagui",
+    "content/study/2.web/7.style/ui-libraries/shadcn-ui",
+    "content/study/2.web/7.style/ui-libraries/radix-ui",
+    "content/study/2.web/7.style/ui-libraries/next-ui",
+    "content/study/2.web/7.style/ui-libraries/material-ui",
+    "content/study/2.web/7.style/ui-libraries/headless-ui",
+    "content/study/2.web/7.style/ui-libraries/chakra-ui",
+    "content/study/2.web/7.style/css-in-js/stylex",
+    "content/study/2.web/7.style/css-in-js/styled-components",
+    "content/study/2.web/7.style/css-in-js/emoticon",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "obsidian/templates",
-    "roadmaps/1.algorithms/2.roadmap"
+    "Untitled 1.canvas"
   ]
 }

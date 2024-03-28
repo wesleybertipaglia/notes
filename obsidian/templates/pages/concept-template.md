@@ -1,12 +1,10 @@
 ---
 name: 
-description:
-resources:
-  - 
-videos:
-  - 
+description: 
+date: 
+resources: 
+videos: 
+groups: 
 tags:
-  - condept
-ref:
-date: {{date:YYYY-MM-DD HH:mm}}
+  - concepts
 ---

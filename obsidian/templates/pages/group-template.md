@@ -1,11 +1,11 @@
 ---
 name: 
 description:
+road-map:
 resources:
   - 
 videos:
   - 
 tags:
-  - group
-date: {{date:YYYY-MM-DD HH:mm}}
+  - groups
 ---

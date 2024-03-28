@@ -1,10 +1,7 @@
 ---
 title: 
 description:
-resources: 
-videos: 
+date:
 tags:
-  - note
-ref:
-date: {{date:YYYY-MM-DD HH:mm}}
+  - notes
 ---

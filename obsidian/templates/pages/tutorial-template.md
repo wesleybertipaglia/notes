@@ -1,10 +1,10 @@
 ---
 title: 
-description:
+description: 
+date: 
 resources: 
 videos: 
+groups: 
 tags:
   - tutorial
-ref:
-date: {{date}}T{{time}}
 ---

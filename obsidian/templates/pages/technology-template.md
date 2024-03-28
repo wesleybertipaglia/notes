@@ -1,13 +1,13 @@
 ---
 name: 
 description: 
+date: 
 official website: 
 repository: 
 documentation: 
 resources: 
 videos: 
+groups: 
 tags:
   - tech
-ref:
-date: {{date:YYYY-MM-DD HH:mm}}
 ---
