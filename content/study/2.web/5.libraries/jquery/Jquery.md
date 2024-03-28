@@ -1,13 +1,16 @@
 ---
 name: 
 description: 
-road-map: 
+date: 
+official website: 
+repository: 
+documentation: 
 resources: 
 videos: 
 groups:
   - "[[Front-end]]"
-  - "[[JavaScript]]"
   - "[[Libraries]]"
+  - "[[JavaScript]]"
 tags:
-  - groups
+  - tech
 ---

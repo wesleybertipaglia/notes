@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "699b62093a5fd859",
+            "id": "f75ee412dbd60fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/2.web/5.libraries/react/React.md",
+                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/2.web/5.libraries/react/React.md",
+                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/2.web/5.libraries/react/React.md",
+                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/2.web/5.libraries/react/React.md"
+                "file": "content/study/2.web/6.frameworks/angular/1.introduction.md"
               }
             }
           },
@@ -173,14 +173,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "699b62093a5fd859",
+  "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "content/study/2.web/6.frameworks/angular/Angular.md",
-    "content/study/2.web/4.testing/cypress/Cypress.md",
-    "content/study/2.web/5.libraries/jquery/Jquery.md",
-    "content/study/2.web/5.libraries/react/1.introduction.md",
-    "content/study/2.web/5.libraries/react/React.md",
+    "content/study/2.web/4.testing/1.introduction.md",
+    "content/study/2.web/6.frameworks/astro/1.introduction.md",
     "content/study/2.web/6.frameworks/angular/1.introduction.md",
+    "obsidian/templates/pages/tutorial-template.md",
+    "content/study/2.web/6.frameworks/angular/Angular.md",
+    "content/study/2.web/6.frameworks/astro/Astro.md",
+    "content/study/2.web/5.libraries/jquery/Jquery.md",
+    "content/study/2.web/5.libraries/react/React.md",
+    "content/study/2.web/4.testing/cypress/Cypress.md",
+    "content/study/2.web/5.libraries/react/1.introduction.md",
     "obsidian/groups/Build.md",
     "content/study/2.web/3.build/compilers/babel/Babel.md",
     "obsidian/groups/Build (copy).md",
@@ -197,10 +201,6 @@
     "content/study/2.web/4.testing/playwright/Playwright.md",
     "content/study/2.web/4.testing/playwright/1.introduction.md",
     "content/study/2.web/4.testing/mocha/Mocha.md",
-    "content/study/2.web/4.testing/mocha/1.introduction.md",
-    "content/study/2.web/4.testing/jest/Jest.md",
-    "content/study/2.web/4.testing/jest/1.introduction.md",
-    "content/study/2.web/4.testing/cypress/1.introduction.md",
     "content/study/2.web/7.style/ui-libraries/tamagui",
     "content/study/2.web/7.style/ui-libraries/shadcn-ui",
     "content/study/2.web/7.style/ui-libraries/radix-ui",
