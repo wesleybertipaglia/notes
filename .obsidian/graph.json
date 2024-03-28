@@ -6,7 +6,43 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "algorithms",
+      "color": {
+        "a": 1,
+        "rgb": 6084212
+      }
+    },
+    {
+      "query": "front-end",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "back-end",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    },
+    {
+      "query": "pattern",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
+    },
+    {
+      "query": "architecture",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.44444444444444425,
+  "scale": 0.200225830078125,
   "close": true
 }

@@ -6,6 +6,7 @@
     "website": "multitext",
     "videos": "multitext",
     "documentation": "multitext",
-    "resources": "multitext"
+    "resources": "multitext",
+    "date": "date"
   }
 }
