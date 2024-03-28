@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/groups/Algorithms.md",
+                "file": "obsidian/groups/Back-end.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/groups/Algorithms.md",
+                "file": "obsidian/groups/Back-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/groups/Algorithms.md",
+                "file": "obsidian/groups/Back-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/groups/Algorithms.md"
+                "file": "obsidian/groups/Back-end.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "66a6c41d443fe3fe",
   "lastOpenFiles": [
+    "obsidian/groups/Architecture.md",
+    "obsidian/groups/Algorithms.md",
     "obsidian/groups/Programming.md",
     "content",
     "obsidian",
@@ -174,8 +176,6 @@
     "obsidian/groups/Databases.md",
     "obsidian/groups/Data Structures.md",
     "obsidian/groups/Back-end.md",
-    "obsidian/groups/Architecture.md",
-    "obsidian/groups/Algorithms.md",
     "obsidian/templates/pages/tutorial-template.md",
     "obsidian/templates/pages/technology-template.md",
     "obsidian/templates/pages/note-template.md",
