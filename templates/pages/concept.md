@@ -1,11 +1,12 @@
 ---
 name: 
 description:
-ref:
 resources:
   - 
 videos:
   - 
 tags:
-  - {{ref}}
+  - condept
+ref:
+date: {{date:YYYY-MM-DD HH:mm}}
 ---

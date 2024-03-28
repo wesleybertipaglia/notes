@@ -7,6 +7,6 @@
     "videos": "multitext",
     "documentation": "multitext",
     "resources": "multitext",
-    "date": "date"
+    "date": "datetime"
   }
 }
