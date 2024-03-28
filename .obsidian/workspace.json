@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmaps/1.algorithms/1.introduction2.md",
+                "file": "roadmaps/1.algorithms/2.roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmaps/1.algorithms/1.introduction2.md",
+                "file": "roadmaps/1.algorithms/2.roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmaps/1.algorithms/1.introduction2.md",
+                "file": "roadmaps/1.algorithms/2.roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmaps/1.algorithms/1.introduction2.md"
+                "file": "roadmaps/1.algorithms/2.roadmap.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "roadmaps/1.algorithms/1.introduction.md",
     "roadmaps/1.algorithms/2.roadmap",
-    "roadmaps/1.algorithms/1.introduction2.md",
+    "roadmaps/1.algorithms/2.roadmap.md",
     "roadmaps/2.web/1.basics/1.internet/1.introduction.md",
     "roadmaps/2.web/1.basics/1.internet/2.roadmap.md",
     "roadmaps/3.back-end/6.message-brokers/kafka/1.introduction.md",
