@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/1.computer-science/1.computers/1. Introduction.md"
+                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md"
               }
             }
           },
@@ -175,6 +176,9 @@
   },
   "active": "f262f208668814ce",
   "lastOpenFiles": [
+    "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md",
+    "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
+    "content/study/1.computer-science/1.computers/1. Introduction.md",
     "content/study/1.computer-science/3.algorithms/languages/javascript/JavaScript.md",
     "obsidian/groups/development/Frameworks.md",
     "content/study/2.web/1.basics/3.css/processors/postcss/PostCSS.md",
@@ -198,9 +202,6 @@
     "content/study/3.back-end/1.programming/javascript/runtimes/deno/Deno.md",
     "content/study/3.back-end/1.programming/javascript/runtimes/node/frameworks/express/Express.md",
     "content/study/3.back-end/1.programming/javascript/runtimes/node/frameworks/fastify/Fastify.md",
-    "content/study/3.back-end/1.programming/javascript/runtimes/node/Node.md",
-    "obsidian/groups/development/back-end/Runtime.md",
-    "content/study/3.back-end/1.programming/javascript/orms/typeorm/TypeORM.md",
     "obsidian/groups/development/back-end",
     "obsidian/groups/networks/protocols",
     "obsidian/groups/computer-science",
