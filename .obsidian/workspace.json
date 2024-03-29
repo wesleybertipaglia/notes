@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
+                "file": "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md"
+                "file": "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "f262f208668814ce",
   "lastOpenFiles": [
+    "content/study/1.computer-science/2.digital-information/Binary/2. Converting Binary.md",
     "content/study/1.computer-science/2.digital-information/Binary/1. Introduction.md",
-    "content/study/1.computer-science/2.digital-information/Binary/2. Calculating Binary.md",
     "content/study/1.computer-science/1.computers/1. Introduction.md",
     "content/study/1.computer-science/3.algorithms/languages/javascript/JavaScript.md",
     "obsidian/groups/development/Frameworks.md",
