@@ -1,11 +1,11 @@
 ---
 name: 
 description: 
-road-map: 
+date: 
 resources: 
 videos: 
 groups:
-  - "[[Computer Science]]"
+  - "[[Digital Information]]"
 tags:
-  - groups
+  - concepts
 ---

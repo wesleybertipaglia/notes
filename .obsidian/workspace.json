@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "f75ee412dbd60fbb",
+            "id": "a39435cba43b79d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
+                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
+                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/2.web/6.frameworks/astro/Astro.md",
+                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/2.web/6.frameworks/astro/Astro.md"
+                "file": "content/study/2.web/3.build/compilers/babel/Babel.md"
               }
             }
           },
@@ -173,44 +173,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f75ee412dbd60fbb",
+  "active": "a39435cba43b79d4",
   "lastOpenFiles": [
-    "content/study/3.back-end/1.programming/csharp/Csharp.md",
-    "content/study/2.web/6.frameworks/angular/Angular.md",
-    "content/study/2.web/6.frameworks/angular/1.introduction.md",
-    "content/study/2.web/4.testing/1.introduction.md",
-    "content/study/2.web/6.frameworks/astro/1.introduction.md",
-    "obsidian/templates/pages/tutorial-template.md",
-    "content/study/2.web/6.frameworks/astro/Astro.md",
-    "content/study/2.web/5.libraries/jquery/Jquery.md",
-    "content/study/2.web/5.libraries/react/React.md",
-    "content/study/2.web/4.testing/cypress/Cypress.md",
-    "content/study/2.web/5.libraries/react/1.introduction.md",
-    "obsidian/groups/Build.md",
-    "content/study/2.web/3.build/compilers/babel/Babel.md",
-    "obsidian/groups/Build (copy).md",
-    "obsidian/groups/Web (copy).md",
-    "obsidian/groups/Frameworks.md",
-    "obsidian/groups/Libraries (copy).md",
-    "obsidian/groups/Libraries.md",
-    "content/study/2.web/5.libraries/Libraries.md",
-    "content/study/2.web/5.libraries/jquery/1.introduction.md",
-    "content/study/2.web/4.testing/vitest/Vitest.md",
-    "content/study/2.web/4.testing/vitest/1.introduction.md",
-    "content/study/2.web/4.testing/selenium/Selenium.md",
-    "content/study/2.web/4.testing/selenium/1.introduction.md",
-    "content/study/2.web/4.testing/playwright/Playwright.md",
-    "content/study/2.web/4.testing/playwright/1.introduction.md",
-    "content/study/2.web/7.style/ui-libraries/tamagui",
-    "content/study/2.web/7.style/ui-libraries/shadcn-ui",
-    "content/study/2.web/7.style/ui-libraries/radix-ui",
-    "content/study/2.web/7.style/ui-libraries/next-ui",
-    "content/study/2.web/7.style/ui-libraries/material-ui",
-    "content/study/2.web/7.style/ui-libraries/headless-ui",
-    "content/study/2.web/7.style/ui-libraries/chakra-ui",
-    "content/study/2.web/7.style/css-in-js/stylex",
-    "content/study/2.web/7.style/css-in-js/styled-components",
-    "content/study/2.web/7.style/css-in-js/emoticon",
+    "content/study/2.web/2.javascript/JavaScript.md",
+    "content/study/2.web/2.javascript/5.apis/axios/Axios.md",
+    "content/study/2.web/2.javascript/5.apis/fetch/Fetch API.md",
+    "content/study/2.web/2.javascript/5.apis/web-apis/Web APIs.md",
+    "content/study/2.web/2.javascript/4.json/JSON.md",
+    "content/study/2.web/2.javascript/3.bom/BOM.md",
+    "content/study/2.web/2.javascript/2.dom/DOM.md",
+    "obsidian/groups/Programming.md",
+    "obsidian/groups/Development.md",
+    "content/study/2.web/2.javascript/1.language/1.introduction.md",
+    "content/study/2.web/1.basics/4.git/1.introduction.md",
+    "content/study/2.web/1.basics/4.git/GIT.md",
+    "content/study/2.web/1.basics/3.css/frameworks/bootstrap/Bootstrap.md",
+    "obsidian/groups/Versioning.md",
+    "obsidian/groups/Tools.md",
+    "content/study/2.web/1.basics/3.css/processors/postcss/PostCSS.md",
+    "content/study/2.web/1.basics/3.css/processors/sass/SASS.md",
+    "content/study/2.web/1.basics/3.css/CSS.md",
+    "content/study/2.web/1.basics/2.html/HTML.md",
+    "content/study/2.web/1.basics/1.http/HTTP.md",
+    "content/study/2.web/1.basics/1.http/1.introduction.md",
+    "content/study/1.computer-science/3.algorithms/1.introduction.md",
+    "content/study/3.back-end/Back-end.md",
+    "content/study/5.architecture/System Architecture.md",
+    "content/study/4.devops/DevOps.md",
+    "obsidian/groups/Iot.md",
+    "content/study/1.computer-science/5.information-theory",
+    "content/study/1.computer-science/6.internet",
+    "content/study/1.computer-science/2.digital-information/Hexadecimal",
+    "content/study/1.computer-science/2.digital-information/Decimal",
+    "content/study/1.computer-science/2.digital-information/Binary",
+    "content/study/1.computer-science/2.digital-information",
+    "content/study/1.computer-science/1.computers",
+    "content/study/1.computer-science/4.information",
+    "content/study/1.computer-science/Untitled.canvas",
+    "content/study/1.computer-science/4.cryptography",
+    "content/study/1.computer-science/3.algorithms",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

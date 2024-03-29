@@ -5,7 +5,7 @@ road-map:
 resources: 
 videos: 
 groups:
-  - "[[Computer Science]]"
+  - "[[Web]]"
 tags:
   - groups
 ---

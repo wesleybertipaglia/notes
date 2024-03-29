@@ -6,6 +6,7 @@ resources:
 videos: 
 groups:
   - "[[Computer Science]]"
+  - "[[Encode]]"
 tags:
   - groups
 ---
