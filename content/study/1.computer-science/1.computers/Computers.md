@@ -6,7 +6,6 @@ resources:
 videos: 
 groups:
   - "[[Computer Science]]"
-  - "[[Hardware]]"
 tags:
   - groups
 ---

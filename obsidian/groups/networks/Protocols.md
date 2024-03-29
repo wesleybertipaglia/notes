@@ -5,8 +5,7 @@ road-map:
 resources: 
 videos: 
 groups:
-  - "[[Computer Science]]"
-  - "[[Algorithms]]"
+  - "[[Network]]"
 tags:
   - groups
 ---

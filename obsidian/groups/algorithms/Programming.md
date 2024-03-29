@@ -5,7 +5,8 @@ road-map:
 resources: 
 videos: 
 groups:
-  - "[[Programming]]"
+  - "[[Algorithms]]"
+  - "[[Development]]"
 tags:
   - groups
 ---

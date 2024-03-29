@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "a39435cba43b79d4",
+            "id": "f262f208668814ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
+                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
+                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/2.web/3.build/compilers/babel/Babel.md",
+                "file": "content/study/1.computer-science/1.computers/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/2.web/3.build/compilers/babel/Babel.md"
+                "file": "content/study/1.computer-science/1.computers/1. Introduction.md"
               }
             }
           },
@@ -173,45 +173,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a39435cba43b79d4",
+  "active": "f262f208668814ce",
   "lastOpenFiles": [
-    "content/study/2.web/2.javascript/JavaScript.md",
-    "content/study/2.web/2.javascript/5.apis/axios/Axios.md",
-    "content/study/2.web/2.javascript/5.apis/fetch/Fetch API.md",
-    "content/study/2.web/2.javascript/5.apis/web-apis/Web APIs.md",
-    "content/study/2.web/2.javascript/4.json/JSON.md",
-    "content/study/2.web/2.javascript/3.bom/BOM.md",
-    "content/study/2.web/2.javascript/2.dom/DOM.md",
-    "obsidian/groups/Programming.md",
-    "obsidian/groups/Development.md",
-    "content/study/2.web/2.javascript/1.language/1.introduction.md",
-    "content/study/2.web/1.basics/4.git/1.introduction.md",
-    "content/study/2.web/1.basics/4.git/GIT.md",
-    "content/study/2.web/1.basics/3.css/frameworks/bootstrap/Bootstrap.md",
-    "obsidian/groups/Versioning.md",
-    "obsidian/groups/Tools.md",
+    "content/study/1.computer-science/3.algorithms/languages/javascript/JavaScript.md",
+    "obsidian/groups/development/Frameworks.md",
     "content/study/2.web/1.basics/3.css/processors/postcss/PostCSS.md",
-    "content/study/2.web/1.basics/3.css/processors/sass/SASS.md",
-    "content/study/2.web/1.basics/3.css/CSS.md",
-    "content/study/2.web/1.basics/2.html/HTML.md",
-    "content/study/2.web/1.basics/1.http/HTTP.md",
-    "content/study/2.web/1.basics/1.http/1.introduction.md",
-    "content/study/1.computer-science/3.algorithms/1.introduction.md",
-    "content/study/3.back-end/Back-end.md",
-    "content/study/5.architecture/System Architecture.md",
-    "content/study/4.devops/DevOps.md",
-    "obsidian/groups/Iot.md",
-    "content/study/1.computer-science/5.information-theory",
-    "content/study/1.computer-science/6.internet",
-    "content/study/1.computer-science/2.digital-information/Hexadecimal",
-    "content/study/1.computer-science/2.digital-information/Decimal",
-    "content/study/1.computer-science/2.digital-information/Binary",
-    "content/study/1.computer-science/2.digital-information",
-    "content/study/1.computer-science/1.computers",
-    "content/study/1.computer-science/4.information",
+    "content/study/3.back-end/2.databases/nosql/redis/Redis.md",
+    "content/study/2.web/8.sites-generators/jekyll/Jekyll.md",
+    "content/study/3.back-end/1.programming/php/frameworks/cake-php/CakePHP.md",
+    "content/study/3.back-end/1.programming/php/frameworks/codeigniter/Code Igniter.md",
+    "content/study/3.back-end/1.programming/php/frameworks/laravel/Laravel.md",
+    "content/study/3.back-end/1.programming/php/frameworks/symphony/Symphony.md",
+    "content/study/3.back-end/1.programming/python/1.introduction.md",
+    "content/study/3.back-end/1.programming/python/frameworks/django/Django.md",
+    "content/study/3.back-end/1.programming/python/frameworks/fast-api/Fast API.md",
+    "content/study/3.back-end/1.programming/python/frameworks/flask/Flask.md",
+    "content/study/3.back-end/1.programming/kotlin/frameworks/ktor/Ktor.md",
+    "content/study/3.back-end/1.programming/kotlin/frameworks/spring-boot/Spring Boot.md",
+    "content/study/3.back-end/1.programming/kotlin/1.introduction.md",
+    "content/study/3.back-end/1.programming/java/frameworks/quarkus/Quarkus.md",
+    "content/study/3.back-end/1.programming/java/frameworks/spring-boot/Spring Boot.md",
+    "content/study/3.back-end/1.programming/java/frameworks/spring-framework/Spring Framework.md",
+    "content/study/3.back-end/1.programming/javascript/runtimes/bun/Bun.md",
+    "content/study/3.back-end/1.programming/javascript/runtimes/deno/Deno.md",
+    "content/study/3.back-end/1.programming/javascript/runtimes/node/frameworks/express/Express.md",
+    "content/study/3.back-end/1.programming/javascript/runtimes/node/frameworks/fastify/Fastify.md",
+    "content/study/3.back-end/1.programming/javascript/runtimes/node/Node.md",
+    "obsidian/groups/development/back-end/Runtime.md",
+    "content/study/3.back-end/1.programming/javascript/orms/typeorm/TypeORM.md",
+    "obsidian/groups/development/back-end",
+    "obsidian/groups/networks/protocols",
+    "obsidian/groups/computer-science",
+    "obsidian/groups/networks",
+    "obsidian/groups/algorithms",
+    "obsidian/groups/hardware",
+    "obsidian/groups/software",
+    "obsidian/groups/development",
+    "content/study/1.computer-science/3.algorithms/languages/dart",
+    "content/study/1.computer-science/3.algorithms/languages/r",
     "content/study/1.computer-science/Untitled.canvas",
-    "content/study/1.computer-science/4.cryptography",
-    "content/study/1.computer-science/3.algorithms",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

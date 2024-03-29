@@ -6,7 +6,6 @@ resources:
 videos: 
 groups:
   - "[[Computer Science]]"
-  - "[[Algorithms]]"
 tags:
   - groups
 ---

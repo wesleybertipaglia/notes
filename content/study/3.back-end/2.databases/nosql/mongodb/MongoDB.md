@@ -7,7 +7,8 @@ repository:
 documentation: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[NoSQL]]"
 tags:
   - tech
 ---

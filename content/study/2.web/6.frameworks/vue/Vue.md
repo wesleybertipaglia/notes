@@ -7,7 +7,10 @@ repository:
 documentation: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[Front-end]]"
+  - "[[Frameworks]]"
+  - "[[JavaScript]]"
 tags:
   - tech
 ---

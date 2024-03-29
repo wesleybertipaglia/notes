@@ -9,7 +9,7 @@ resources:
 videos: 
 groups:
   - "[[Front-end]]"
-  - "[[Libraries]]"
+  - "[[Library]]"
   - "[[JavaScript]]"
 tags:
   - tech

@@ -7,7 +7,9 @@ repository:
 documentation: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[Runtime]]"
+  - "[[JavaScript]]"
 tags:
   - tech
 ---

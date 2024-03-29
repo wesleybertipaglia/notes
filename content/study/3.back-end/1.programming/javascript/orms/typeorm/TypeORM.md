@@ -7,7 +7,8 @@ repository:
 documentation: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[ORM]]"
 tags:
   - tech
 ---

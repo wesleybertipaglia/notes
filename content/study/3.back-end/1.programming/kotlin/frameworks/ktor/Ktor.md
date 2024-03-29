@@ -7,7 +7,10 @@ repository:
 documentation: 
 resources: 
 videos: 
-groups: 
+groups:
+  - "[[Back-end]]"
+  - "[[Frameworks]]"
+  - "[[Kotlin]]"
 tags:
   - tech
 ---
