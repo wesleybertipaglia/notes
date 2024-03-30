@@ -9,6 +9,8 @@ groups:
 tags:
   - groups
 ---
+- programming
+
 CPU
 ![[Pasted image 20240330092043.png]]
 
