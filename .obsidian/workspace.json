@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "cf8e28daa9581240",
+            "id": "4c9349e5a5e38092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
+                "file": "content/study/computer-science/computers/Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
+                "file": "content/study/computer-science/computers/Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
+                "file": "content/study/computer-science/computers/Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md"
+                "file": "content/study/computer-science/computers/Computer.md"
               }
             }
           },
@@ -173,44 +174,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf8e28daa9581240",
+  "active": "4c9349e5a5e38092",
   "lastOpenFiles": [
-    "content/study/computer-science/algorithms/languages/python/3. Operators.md",
-    "content/study/computer-science/algorithms/languages/python/4. Conditionals.md",
-    "content/study/computer-science/algorithms/languages/python/5. Loops.md",
-    "content/study/computer-science/algorithms/languages/python/6. Functions.md",
-    "content/study/computer-science/algorithms/languages/python/7. Classes and Objects.md",
-    "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
-    "content/study/computer-science/algorithms/languages/python/1. Introduction.md",
-    "content/study/computer-science/algorithms/languages/python/Python.md",
-    "content/study/development/web/1.html/HTML.md",
-    "content/study/computer-science/computers/Computer.md",
-    "content/study/computer-science/algorithms/languages/rust/Rust.md",
+    "Pasted image 20240330101649.png",
+    "Pasted image 20240330101627.png",
+    "Pasted image 20240330093005.png",
+    "Pasted image 20240330092519.png",
+    "Pasted image 20240330092401.png",
+    "Pasted image 20240330092315.png",
+    "Pasted image 20240330092226.png",
+    "Pasted image 20240330092203.png",
+    "Pasted image 20240330092142.png",
+    "Pasted image 20240330092107.png",
+    "Pasted image 20240330092043.png",
+    "content/study/computer-science/computers/hardware/ROM.md",
+    "content/study/computer-science/computers/hardware/RAM.md",
+    "content/study/computer-science/computers/digital-information/6. Encoding & Decoding.md",
+    "content/study/computer-science/computers/digital-information/1. Binary.md",
+    "content/study/computer-science/computers/digital-information/5. Hexadecimal.md",
+    "content/study/computer-science/computers/digital-information/2. Bits.md",
+    "content/study/computer-science/computers/digital-information/3. Bytes.md",
+    "content/study/computer-science/computers/digital-information/4. Decimal.md",
+    "content/study/computer-science/computers/digital-information/Hexadecimal/1. Introduction.md",
+    "content/study/computer-science/computers/digital-information/Decimal/1. Introduction.md",
+    "content/study/computer-science/computers/digital-information/Binary/1. Introduction.md",
+    "content/study/computer-science/computers/digital-information/ASCII.md",
+    "content/study/computer-science/computers/hardware/CPU.md",
+    "content/study/computer-science/computers/hardware",
+    "content/study/computer-science/computers/turing-machine",
+    "content/study/computer-science/computers/turing-machine/Turing Machine.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types/Sets.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types/Dictionaries.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types/Tuples.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types/Arrays.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types/Strings.md",
+    "content/study/computer-science/algorithms/languages/python/Basics/1. Introduction.md",
+    "content/study/computer-science/algorithms/languages/python/Data Types",
+    "content/study/computer-science/algorithms/languages/python/Basics",
+    "content/study/computer-science/algorithms/languages/python/Basics/2. Data Types.md",
+    "content/study/computer-science/algorithms/languages/python/Basics/3. Operators.md",
+    "content/study/computer-science/algorithms/languages/python/Basics/4. Conditionals.md",
+    "content/study/computer-science/algorithms/languages/python/Basics/5. Loops.md",
+    "content/study/computer-science/algorithms/languages/python/Basics/6. Functions.md",
     "content/study/network",
-    "content/study/computer-science/algorithms/data-structures/sets.md",
-    "content/study/computer-science/algorithms/data-structures/bool.md",
-    "content/study/computer-science/algorithms/data-structures/numbers.md",
-    "content/study/computer-science/algorithms/data-structures/strings.md",
-    "content/study/computer-science/algorithms/data-structures/linked-lists.md",
-    "content/study/computer-science/algorithms/data-structures/lists.md",
-    "content/study/development/mobile/Mobile.md",
-    "content/study/development/computer/Computer Development.md",
-    "content/study/development/software-architecture/Software Architecture.md",
-    "content/study/development/back-end/Back-end.md",
-    "content/study/computer-science/algorithms/1.introduction.md",
-    "content/study/computer-science/computers/1. Introduction.md",
-    "content/study/development/2.web/Untitled.md",
     "content/study/computer-science/math",
     "content/study/development/computer",
     "content/study/development/mobile",
-    "content/study/development/back-end/Untitled.md",
-    "content/study/development/back-end/Untitled 1.md",
     "content/study/development",
     "content/study/computer-science/networking",
-    "content/study/computer-science/operating-systems",
-    "content/study/computer-science/algorithms/data-structures",
-    "content/study/computer-science/computers/digital-information/ASCII",
-    "obsidian/groups/development/back-end",
     "content/study/1.computer-science/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
