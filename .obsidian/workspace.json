@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "cf8e28daa9581240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/study/computer-science/algorithms/languages/python/2. Data Types.md"
+              }
             }
           },
           {
@@ -156,8 +173,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d96d56c71e31f78",
+  "active": "cf8e28daa9581240",
   "lastOpenFiles": [
+    "content/study/computer-science/algorithms/languages/python/3. Operators.md",
+    "content/study/computer-science/algorithms/languages/python/4. Conditionals.md",
+    "content/study/computer-science/algorithms/languages/python/5. Loops.md",
+    "content/study/computer-science/algorithms/languages/python/6. Functions.md",
+    "content/study/computer-science/algorithms/languages/python/7. Classes and Objects.md",
+    "content/study/computer-science/algorithms/languages/python/2. Data Types.md",
+    "content/study/computer-science/algorithms/languages/python/1. Introduction.md",
+    "content/study/computer-science/algorithms/languages/python/Python.md",
+    "content/study/development/web/1.html/HTML.md",
+    "content/study/computer-science/computers/Computer.md",
+    "content/study/computer-science/algorithms/languages/rust/Rust.md",
+    "content/study/network",
+    "content/study/computer-science/algorithms/data-structures/sets.md",
+    "content/study/computer-science/algorithms/data-structures/bool.md",
+    "content/study/computer-science/algorithms/data-structures/numbers.md",
+    "content/study/computer-science/algorithms/data-structures/strings.md",
+    "content/study/computer-science/algorithms/data-structures/linked-lists.md",
+    "content/study/computer-science/algorithms/data-structures/lists.md",
     "content/study/development/mobile/Mobile.md",
     "content/study/development/computer/Computer Development.md",
     "content/study/development/software-architecture/Software Architecture.md",
@@ -174,26 +209,8 @@
     "content/study/computer-science/networking",
     "content/study/computer-science/operating-systems",
     "content/study/computer-science/algorithms/data-structures",
-    "content/study/computer-science/computers/digital-information/Binary/Binary System.md",
-    "content/study/computer-science/computers/digital-information/Binary/2. Bits.md",
-    "content/study/computer-science/computers/digital-information/Binary/1. Introduction.md",
-    "content/study/computer-science/computers/digital-information/Binary/3. Bytes.md",
-    "obsidian/groups/computer-science/Computer Science.md",
-    "content/study/computer-science/computers/digital-information/Digital Information.md",
-    "content/study/computer-science/computers/digital-information/ASCII/ASCII.md",
     "content/study/computer-science/computers/digital-information/ASCII",
-    "content/study/computer-science/algorithms/languages/javascript/JavaScript.md",
-    "obsidian/groups/development/Frameworks.md",
-    "content/study/development/web/2.css/processors/postcss/PostCSS.md",
-    "content/study/development/back-end/databases/nosql/redis/Redis.md",
-    "content/study/development/web/9.extra/jekyll/Jekyll.md",
-    "content/study/development/back-end/programming/php/frameworks/cake-php/CakePHP.md",
-    "content/study/development/back-end/programming/php/frameworks/codeigniter/Code Igniter.md",
-    "content/study/development/back-end/programming/php/frameworks/laravel/Laravel.md",
-    "content/study/development/back-end/programming/php/frameworks/symphony/Symphony.md",
-    "content/study/development/back-end/programming/python/1.introduction.md",
     "obsidian/groups/development/back-end",
-    "obsidian/groups/networks/protocols",
     "content/study/1.computer-science/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

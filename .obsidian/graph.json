@@ -4,9 +4,73 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Computer Science",
+      "color": {
+        "a": 1,
+        "rgb": 5412832
+      }
+    },
+    {
+      "query": "Algorithms",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Data Structures",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Programming",
+      "color": {
+        "a": 1,
+        "rgb": 13725676
+      }
+    },
+    {
+      "query": "Cryptography",
+      "color": {
+        "a": 1,
+        "rgb": 14713938
+      }
+    },
+    {
+      "query": "Network",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Development",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Back-end",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "Front-end",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 0.489583333333333,
   "linkDistance": 248,
-  "scale": 0.13348388671875,
+  "scale": 0.6757621765136719,
   "close": true
 }
