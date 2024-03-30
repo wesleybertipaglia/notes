@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "feb44aa50e595930",
+            "id": "7a6325822a584297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/computer/Computer summary.md",
+                "file": "content/study/computer-science/Programming/algorithms/Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +187,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "feb44aa50e595930",
+  "active": "7632f8f8b59314e9",
   "lastOpenFiles": [
-    "content/study/computer-science/computer/Computer Cycles.md",
+    "content/study/computer-science/Programming/algorithms/Memory.md",
     "content/study/computer-science/computer/Computer summary.md",
+    "content/study/computer-science/Programming/data-structures/bool.md",
+    "content/study/computer-science/Programming/algorithms",
+    "content/study/computer-science/Programming",
+    "content/study/computer-science/computer/Computer Cycles.md",
     "content/study/computer-science/computer/software/Applications.md",
     "content/study/computer-science/computer/software/CLI.md",
     "content/study/computer-science/computer/software/Shell.md",
@@ -226,15 +230,11 @@
     "content/study/computer-science/computer/hardware",
     "content/study/computer-science/computer/turing-machine",
     "content/study/computer-science/computer/turing-machine/Turing Machine.md",
-    "content/study/computer-science/algorithms/languages/python/Data Types/Sets.md",
-    "content/study/computer-science/algorithms/languages/python/Data Types/Dictionaries.md",
-    "content/study/computer-science/algorithms/languages/python/Data Types",
-    "content/study/computer-science/algorithms/languages/python/Basics",
+    "content/study/computer-science/Programming/languages/python/Data Types",
+    "content/study/computer-science/Programming/languages/python/Basics",
     "content/study/network",
     "content/study/computer-science/math",
     "content/study/development/computer",
-    "content/study/development/mobile",
-    "content/study/development",
     "content/study/1.computer-science/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

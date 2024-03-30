@@ -9,8 +9,6 @@ groups:
 tags:
   - groups
 ---
-- programming
-
 CPU
 ![[Pasted image 20240330092043.png]]
 
@@ -39,16 +37,7 @@ Types of Programming Languages
 - Interpreted: call an interpreter that executes the code
 - Compiled: compile the entire code into machine code that results in an executable file
 
-Variables
-- A memory store in the ram
 
-Pointer
-- a variable that the value is the memory address of another variable
-- use: low level memory control
-- many languages dont deals with pointers, instead they have garbage collector
-
-Garbage Collection
-- Automatically allocates and deallocates memory when a variable is no longer referenced in the program
 
 Data Types
 ![[Pasted image 20240330093005.png]]
