@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb25a29636712f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/study/computer-science/networking/Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/computer/Computer summary.md",
+                "file": "content/study/computer-science/networking/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/computer/Computer summary.md",
+                "file": "content/study/computer-science/networking/Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/computer/Computer summary.md"
+                "file": "content/study/computer-science/networking/Network.md"
               }
             }
           },
@@ -187,10 +199,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7632f8f8b59314e9",
+  "active": "cb25a29636712f04",
   "lastOpenFiles": [
-    "content/study/computer-science/Programming/algorithms/Memory.md",
     "content/study/computer-science/computer/Computer summary.md",
+    "content/study/computer-science/Programming/algorithms/Memory.md",
     "content/study/computer-science/Programming/data-structures/bool.md",
     "content/study/computer-science/Programming/algorithms",
     "content/study/computer-science/Programming",
