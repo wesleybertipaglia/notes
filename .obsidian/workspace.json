@@ -18,17 +18,15 @@
             }
           },
           {
-            "id": "7e8a755151a3ee5a",
+            "id": "c561529f270739b8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -82,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md"
+                "file": "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md"
               }
             }
           },
@@ -176,37 +173,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7e8a755151a3ee5a",
+  "active": "c561529f270739b8",
   "lastOpenFiles": [
-    "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Lists.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Sets.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Strings.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Numbers.md",
-    "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
-    "content/study/computer-science/Programming/languages/python/Basics/3. Operators.md",
-    "content/study/computer-science/Programming/languages/python/Basics/2. Data Types.md",
+    "content/study/computer-science/Programming/languages/python/Modules/ml-ai/scikit-learn.md",
+    "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math/matplotlib.md",
+    "content/study/computer-science/Programming/languages/python/Modules/ml-ai",
+    "content/study/computer-science/Programming/languages/python/Modules/math/pandas.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math/scipy.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math/numpy.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math/random.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math/math.md",
+    "content/study/computer-science/Programming/languages/python/Modules/cryptography/ssl.md",
+    "content/study/computer-science/Programming/languages/python/Modules/cryptography/secrets.md",
+    "content/study/computer-science/Programming/languages/python/Modules/cryptography/hashlib.md",
+    "content/study/computer-science/Programming/languages/python/Modules/data/pickle.md",
+    "content/study/computer-science/Programming/languages/python/Modules/cryptography",
+    "content/study/computer-science/Programming/languages/python/Modules/data/sqlite3.md",
+    "content/study/computer-science/Programming/languages/python/Modules/network/html.md",
+    "content/study/computer-science/Programming/languages/python/Modules/data",
+    "content/study/computer-science/Programming/languages/python/Modules/network/xml.md",
+    "content/study/computer-science/Programming/languages/python/Modules/data/csv.md",
+    "content/study/computer-science/Programming/languages/python/Modules/network/email.md",
+    "content/study/computer-science/Programming/languages/python/Modules/data/json.md",
+    "content/study/computer-science/Programming/languages/python/Modules/network/http.md",
+    "content/study/computer-science/Programming/languages/python/Modules/network/socket.md",
+    "content/study/computer-science/Programming/languages/python/Modules/network",
+    "content/study/computer-science/Programming/languages/python/Modules/math",
+    "content/study/computer-science/Programming/languages/python/Modules/os/Sys.md",
+    "content/study/computer-science/Programming/languages/python/Modules/Date.md",
+    "content/study/computer-science/Programming/languages/python/Modules/os/Plataform.md",
+    "content/study/computer-science/Programming/languages/python/Modules/os",
+    "content/study/computer-science/Programming/languages/python/Modules/os/Shutil.md",
+    "content/study/computer-science/Programming/languages/python/Modules/os/OS.md",
     "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
-    "content/study/computer-science/Programming/languages/python/Basics/5. Loops.md",
-    "content/study/computer-science/Programming/languages/python/Basics/4. Conditionals.md",
-    "content/study/computer-science/computer/Computer summary.md",
-    "content/study/computer-science/Programming/algorithms/Memory.md",
-    "content/study/computer-science/Programming/languages/python/Basics/6. Functions.md",
-    "content/study/computer-science/networking/Network.md",
-    "content/study/computer-science/Programming/data-structures/bool.md",
+    "content/study/computer-science/Programming/languages/python/Modules",
     "content/study/computer-science/Programming/algorithms",
     "content/study/computer-science/Programming",
-    "content/study/computer-science/computer/Computer Cycles.md",
-    "content/study/computer-science/computer/software/Applications.md",
-    "content/study/computer-science/computer/software/CLI.md",
-    "content/study/computer-science/computer/software/Shell.md",
-    "content/study/computer-science/computer/software/Kernel.md",
     "content/study/computer-science/computer/software",
-    "content/study/computer-science/computer/Computer.md",
-    "content/study/computer-science/computer/Input and Output.md",
-    "content/study/computer-science/computer/How Computer Works.md",
-    "content/study/computer-science/Computer Science.md",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
@@ -217,13 +221,6 @@
     "Pasted image 20240330092203.png",
     "Pasted image 20240330092142.png",
     "Pasted image 20240330092107.png",
-    "content/study/computer-science/computer/hardware",
-    "content/study/computer-science/computer/turing-machine",
-    "content/study/computer-science/Programming/languages/python/Data Types",
-    "content/study/computer-science/Programming/languages/python/Basics",
-    "content/study/network",
-    "content/study/computer-science/math",
-    "content/study/development/computer",
     "content/study/1.computer-science/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

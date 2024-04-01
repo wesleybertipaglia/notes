@@ -2,6 +2,10 @@ Lists are used to store multiple items in a single variable.
 
 Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are [Tuple](https://www.w3schools.com/python/python_tuples.asp), [Set](https://www.w3schools.com/python/python_sets.asp), and [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp), all with different qualities and usage.
 
+- Ordered
+- Changeable
+- Allow Diplicates
+
 ```python
 thislist = ["apple", "banana", "cherry"]
 len(thislist) # return the length
