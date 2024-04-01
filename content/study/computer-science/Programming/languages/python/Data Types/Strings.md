@@ -48,19 +48,30 @@ for x in "banana":
 
 ```python
 txt = "The best things in life are free!"  
-print("free" in txt)
-print("expensive" not in txt)
+print("free" in txt) # true
+print("expensive" not in txt) # true
+print(s.startswith("The")) # true
+print(s.endswith("The")) # false
 ```
 
 ## Modify Strings
 
 ```python
 hello = " Hello, World! " 
+
+# case
 hello.upper()
 hello.lower()
+hello.capitalize()
+hello.casefold()
+
+# white spaces
+hello.center(4)
 hello.strip() # remove whitespaces
-hello.replace("H", "J")
-hello.split(",") # returns ['Hello', ' World!']
+
+hello.replace("H", "J") # replace
+hello.split(",") # split
+"-".join(hello) # join
 ```
 
 ## Concatenation
@@ -78,5 +89,14 @@ c = a + " " + b
 age = 36  
 txt = "My name is John, and I am {}"  
 print(txt.format(age))
+```
+
+## Methods
+
+```python
+hello = "Hello, world!"
+hello.find("world") # return 7
+hello.index("world") # return 7
+hello.count("o") # return 2
 ```
 
