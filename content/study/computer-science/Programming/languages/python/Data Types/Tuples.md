@@ -31,25 +31,35 @@ thistuple[1] = "kiwi"
 
 # adding items
 thistuple.append("orange") # append to the end
-thistuple += ("mango", "kiwi") # concatenate tuples
 repeated_tuple = thistuple * 3
 
 # removing items
 thistuple.remove("apple")
 
-
-# join
+# concatenating
+thistuple += ("mango", "kiwi")
 ```
 
 ## Unpacking Items
 
 ```python
-my_tuple = (1, 2, 3)
-a, b, c = my_tuple
+fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+(green, yellow, *red) = fruits # * returns the rest of the tuple
 ```
 
 ## Loop
 
 ```python
+# in
+for x in fruits:
+  print(x)
 
+# range
+for i in range(len(fruits)):
+  print(fruits[i])
+
+# while
+while i < len(fruits):  
+  print(fruits[i])  
+  i = i + 1
 ```

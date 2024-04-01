@@ -30,37 +30,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "acd6d1f0122fa66d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Sets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3e6d43db67351f4f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md"
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md"
               }
             }
           },
@@ -204,14 +176,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e6d43db67351f4f",
+  "active": "7e8a755151a3ee5a",
   "lastOpenFiles": [
-    "content/study/computer-science/Programming/languages/python/Data Types/Lists.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Strings.md",
     "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Sets.md",
-    "content/study/computer-science/Programming/languages/python/Data Types/Numbers.md",
     "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Lists.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Sets.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Strings.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Numbers.md",
     "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
     "content/study/computer-science/Programming/languages/python/Basics/3. Operators.md",
     "content/study/computer-science/Programming/languages/python/Basics/2. Data Types.md",
