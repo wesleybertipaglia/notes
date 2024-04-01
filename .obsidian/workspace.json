@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Modules/requests.md",
-                "mode": "source",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Modules/requests.md",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Modules/requests.md",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Modules/requests.md"
+                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md"
               }
             }
           },
@@ -175,42 +176,42 @@
   },
   "active": "9d20f157cc858983",
   "lastOpenFiles": [
-    "content/study/computer-science/Programming/languages/python/Modules/random.md",
-    "content/study/computer-science/Programming/languages/python/Modules/requests.md",
-    "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
-    "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
-    "content/study/computer-science/Programming/languages/python/Basics/5. Try Except.md",
-    "content/study/computer-science/Programming/languages/python/Basics/5. PIP.md",
-    "content/study/computer-science/Programming/languages/python/Modules/regex.md",
-    "content/study/computer-science/Programming/languages/python/Modules/json.md",
-    "content/study/computer-science/Programming/languages/python/Modules/csv.md",
-    "content/study/computer-science/Programming/languages/python/Modules/http.md",
-    "content/study/computer-science/Programming/languages/python/Modules/shutil.md",
-    "content/study/computer-science/Programming/languages/python/Modules/pandas.md",
-    "content/study/computer-science/Programming/languages/python/Modules/datetime.md",
-    "content/study/computer-science/Programming/languages/python/Modules/math.md",
-    "content/study/computer-science/Programming/languages/python/Modules/os.md",
-    "content/study/computer-science/Programming/languages/python/Modules/network/xml.md",
-    "content/study/computer-science/Programming/languages/python/Modules/network/email.md",
-    "content/study/computer-science/Programming/languages/python/Modules/sys.md",
-    "content/study/computer-science/Programming/languages/python/Modules/platform.md",
-    "content/study/computer-science/Programming/languages/python/Modules/ml-ai/tensorflow.md",
-    "content/study/computer-science/Programming/languages/python/Modules/ml-ai/scikit-learn.md",
-    "content/study/computer-science/Programming/languages/python/Modules/matplotlib.md",
+    "content/study/computer-science/networking/Network.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/this.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/strict.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/regexp.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/modules.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/interators-generators.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/global.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/event-loop.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/apply-bind-call.md",
+    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous",
+    "content/study/computer-science/Programming/languages/javascript/5.oop/4.polymorphism.md",
+    "content/study/computer-science/Programming/languages/javascript/5.oop/3.inheritance.md",
+    "content/study/computer-science/Programming/languages/javascript/5.oop/2.encapsulation.md",
+    "content/study/computer-science/Programming/languages/javascript/5.oop/1.introduction.md",
+    "content/study/computer-science/Programming/languages/javascript/5.oop",
+    "content/study/computer-science/Programming/languages/javascript/4.class/4.getters-setters.md",
+    "content/study/computer-science/Programming/languages/javascript/4.class/3.methods.md",
+    "content/study/computer-science/Programming/languages/javascript/4.class/2.properties.md",
+    "content/study/computer-science/Programming/languages/javascript/4.class/1.introduction.md",
+    "content/study/computer-science/Programming/languages/javascript/4.class",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/6.json.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/5.destructuring.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/4.interaction.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/3.methods.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/2.properties.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects/1.introduction.md",
+    "content/study/computer-science/Programming/languages/javascript/3.objects",
+    "content/study/computer-science/Programming/languages/javascript/2.data-types/9.map.md",
+    "content/study/computer-science/Programming/languages/javascript/2.data-types/7.date.md",
+    "content/study/computer-science/Programming/languages/javascript/2.data-types/6.math.md",
+    "content/study/computer-science/Programming/languages/javascript/2.data-types",
+    "content/study/computer-science/Programming/languages/javascript/1.introduction",
+    "content/study/computer-science/Programming/cryptography",
+    "content/study/computer-science/networking/internet",
     "content/study/computer-science/Programming/languages/python/Modules/ml-ai",
-    "content/study/computer-science/Programming/languages/python/Modules/scipy.md",
-    "content/study/computer-science/Programming/languages/python/Modules/numpy.md",
-    "content/study/computer-science/Programming/languages/python/Modules/cryptography/ssl.md",
-    "content/study/computer-science/Programming/languages/python/Modules/cryptography/secrets.md",
     "content/study/computer-science/Programming/languages/python/Modules/cryptography",
-    "content/study/computer-science/Programming/languages/python/Modules/data",
-    "content/study/computer-science/Programming/languages/python/Modules/network",
-    "content/study/computer-science/Programming/languages/python/Modules/math",
-    "content/study/computer-science/Programming/languages/python/Modules/os",
-    "content/study/computer-science/Programming/languages/python/Modules",
-    "content/study/computer-science/Programming/algorithms",
-    "content/study/computer-science/Programming",
-    "content/study/computer-science/computer/software",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
