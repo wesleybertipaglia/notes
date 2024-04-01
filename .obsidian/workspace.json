@@ -18,15 +18,31 @@
             }
           },
           {
-            "id": "9d20f157cc858983",
+            "id": "dbb6667f654c184d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
-                "mode": "preview",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5bd0e12cbdb962c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
+                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md"
+                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md"
               }
             }
           },
@@ -174,8 +190,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9d20f157cc858983",
+  "active": "dbb6667f654c184d",
   "lastOpenFiles": [
+    "content/study/computer-science/Programming/languages/python/Basics/5. Try Except.md",
+    "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
+    "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+    "content/study/computer-science/Programming/languages/python/Basics/3. Operators.md",
+    "content/study/computer-science/Programming/languages/python/Basics/2. Data Types.md",
+    "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
     "content/study/computer-science/networking/Network.md",
     "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/this.md",
     "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/strict.md",
@@ -199,13 +221,7 @@
     "content/study/computer-science/Programming/languages/javascript/3.objects/6.json.md",
     "content/study/computer-science/Programming/languages/javascript/3.objects/5.destructuring.md",
     "content/study/computer-science/Programming/languages/javascript/3.objects/4.interaction.md",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/3.methods.md",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/2.properties.md",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/1.introduction.md",
     "content/study/computer-science/Programming/languages/javascript/3.objects",
-    "content/study/computer-science/Programming/languages/javascript/2.data-types/9.map.md",
-    "content/study/computer-science/Programming/languages/javascript/2.data-types/7.date.md",
-    "content/study/computer-science/Programming/languages/javascript/2.data-types/6.math.md",
     "content/study/computer-science/Programming/languages/javascript/2.data-types",
     "content/study/computer-science/Programming/languages/javascript/1.introduction",
     "content/study/computer-science/Programming/cryptography",
