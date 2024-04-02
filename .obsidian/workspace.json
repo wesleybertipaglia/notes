@@ -18,35 +18,29 @@
             }
           },
           {
-            "id": "dbb6667f654c184d",
+            "id": "7f44bd05175e7deb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "5bd0e12cbdb962c5",
+            "id": "e738bdf4b9c15831",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "currentVersion": "1.5.12"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md"
+                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md"
               }
             }
           },
@@ -190,11 +184,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dbb6667f654c184d",
+  "active": "e738bdf4b9c15831",
   "lastOpenFiles": [
-    "content/study/computer-science/Programming/languages/python/Basics/5. Try Except.md",
     "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
     "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
+    "content/study/computer-science/Programming/languages/python/Basics/5. Try Except.md",
     "content/study/computer-science/Programming/languages/python/Basics/3. Operators.md",
     "content/study/computer-science/Programming/languages/python/Basics/2. Data Types.md",
     "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
