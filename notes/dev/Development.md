@@ -9,3 +9,12 @@ groups:
 tags:
   - groups
 ---
+Platforms
+- web
+- mobile
+- computer
+- embed
+
+Concepts
+- frameworks
+- libraries
