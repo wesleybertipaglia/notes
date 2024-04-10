@@ -16,8 +16,23 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a2888faf26343735",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/cs/1. computer/Computer Cycles.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/cs/1. computer/Computer Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/cs/1. computer/Computer Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/cs/1. computer/Computer Cycles.md"
+              }
             }
           },
           {
@@ -158,42 +177,42 @@
   },
   "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "notes/cs/hardware/HD.md",
-    "notes/cs/hardware/ROM.md",
-    "notes/cs/programming/Memory.md",
-    "notes/cs/programming/data-structures/arrays.md",
-    "notes/cs/programming/data-structures/dictionaries.md",
-    "notes/cs/programming/data-structures/primitive-types.md",
-    "notes/cs/programming/data-structures/lists.md",
-    "notes/cs/programming/data-structures/bool.md",
-    "notes/cs/programming/data-structures/strings.md",
-    "notes/cs/programming/data-structures/sets.md",
-    "notes/cs/programming/data-structures/numbers.md",
-    "notes/cs/programming/data-structures/linked-lists.md",
-    "notes/cs/programming/languages/1.introduction.md",
-    "notes/cs/programming/Programming.md",
-    "notes/dev/frontend/1.introduction.md",
-    "notes/dev/Development.md",
-    "notes/dev/tests/1.introduction.md",
-    "notes/dev/frameworks",
-    "notes/dev/Untitled.md",
-    "notes/dev/tests",
-    "notes/dev/web/Web.md",
-    "notes/dev/backend/security/1.introduction.md",
-    "notes/dev/frontend",
-    "notes/dev/backend/apis/1.introduction.md",
-    "notes/dev/backend/caching/1.introduction.md",
-    "notes/dev/backend/message/1.introduction.md",
-    "notes/dev/backend/programming/1.introduction.md",
-    "notes/dev/backend/databases/sql/3.manipulation.md",
-    "notes/dev/backend/databases/sql/2.query.md",
-    "notes/dev/back-end/databases/nosql/dbs/firebase",
-    "notes/dev/back-end/databases/nosql/dbs/cassandra",
-    "notes/dev/back-end/databases/nosql/dbs/redis",
-    "notes/dev/back-end/databases/nosql/dbs/mongo",
-    "notes/dev/back-end/databases/sql/dbs/postgresql",
-    "notes/dev/back-end/databases/sql/dbs/sqlite",
-    "notes/dev/back-end/databases/sql/dbs/mysql",
+    "notes/cs/10.machine-learning",
+    "notes/cs/1. computer/Computer summary.md",
+    "notes/cs/9.cloud-computing",
+    "notes/cs/5. programming/Paradigms.md",
+    "notes/cs/5. programming/Programming.md",
+    "notes/cs/6. dsa/algorithms/performance/Space Complexity.md",
+    "notes/cs/6. dsa/algorithms/performance/Big O.md",
+    "notes/cs/6. dsa/algorithms/performance/Time Complexity.md",
+    "notes/cs/6. dsa/algorithms/performance",
+    "notes/cs/6. dsa/algorithms/performance/Performance.md",
+    "notes/cs/6. dsa/algorithms/Call Stack.md",
+    "notes/cs/6. dsa/data-structures/Graph.md",
+    "notes/cs/6. dsa/algorithms/Algorithms.md",
+    "notes/cs/6. dsa/data-structures/Queue.md",
+    "notes/cs/6. dsa/data-structures/Hash.md",
+    "notes/cs/6. dsa/data-structures/Arrays.md",
+    "notes/cs/3. software/Software.md",
+    "notes/cs/3. software/Shell.md",
+    "notes/cs/3. software/OS.md",
+    "notes/cs/3. software/Kernel.md",
+    "notes/cs/3. software/Interfaces.md",
+    "notes/cs/3. software/Applications.md",
+    "notes/cs/2. hardware/ROM.md",
+    "notes/cs/2. hardware/RAM.md",
+    "notes/cs/2. hardware/IO Devices.md",
+    "notes/cs/2. hardware/HD.md",
+    "notes/cs/2. hardware/Graphic Cards.md",
+    "notes/cs/2. hardware/CPU.md",
+    "notes/cs/6. dsa/data-structures",
+    "notes/cs/6. dsa/algorithms",
+    "notes/cs/6. dsa",
+    "notes/cs/7. information-theory/error-correction",
+    "notes/cs/7. information-theory/channel-capacity",
+    "notes/cs/7. information-theory/data-compression",
+    "notes/cs/7. information-theory/information-content",
+    "notes/cs/7. information-theory/entropy",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
