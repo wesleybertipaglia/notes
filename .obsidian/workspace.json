@@ -18,29 +18,19 @@
             }
           },
           {
-            "id": "7f44bd05175e7deb",
+            "id": "69a5fc3ffb5369a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/csv.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e738bdf4b9c15831",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/csv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
+                "file": "content/study/computer-science/Programming/languages/python/Modules/csv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md"
+                "file": "content/study/computer-science/Programming/languages/python/Modules/csv.md"
               }
             }
           },
@@ -184,8 +173,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e738bdf4b9c15831",
+  "active": "69a5fc3ffb5369a9",
   "lastOpenFiles": [
+    "content/study/computer-science/Programming/languages/python/Modules/datetime.md",
+    "content/study/computer-science/Programming/languages/python/Modules/http.md",
+    "content/study/computer-science/Programming/languages/python/Modules/json.md",
+    "content/study/computer-science/Programming/languages/python/Modules/math.md",
+    "content/study/computer-science/Programming/languages/python/Modules/os.md",
+    "content/study/computer-science/Programming/languages/python/Modules/platform.md",
+    "content/study/computer-science/Programming/languages/python/Modules/random.md",
+    "content/study/computer-science/Programming/languages/python/Modules/regex.md",
+    "content/study/computer-science/Programming/languages/python/Modules/requests.md",
+    "content/study/computer-science/Programming/languages/python/Modules/shutil.md",
+    "content/study/computer-science/Programming/languages/python/Modules/sys.md",
+    "content/study/computer-science/Programming/languages/python/Modules/csv.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Lists.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Numbers.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Sets.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Strings.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Tuples.md",
+    "content/study/computer-science/Programming/languages/python/Data Types/Dictionaries.md",
     "content/study/computer-science/Programming/languages/python/Basics/6. File.md",
     "content/study/computer-science/Programming/languages/python/Basics/4. Classes and Objects.md",
     "content/study/computer-science/Programming/languages/python/Basics/5. Try Except.md",
@@ -194,27 +201,9 @@
     "content/study/computer-science/Programming/languages/python/Basics/1. Introduction.md",
     "content/study/computer-science/networking/Network.md",
     "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/this.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/strict.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/regexp.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/modules.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/interators-generators.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/global.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/event-loop.md",
-    "content/study/computer-science/Programming/languages/javascript/6.miscellaneous/apply-bind-call.md",
     "content/study/computer-science/Programming/languages/javascript/6.miscellaneous",
-    "content/study/computer-science/Programming/languages/javascript/5.oop/4.polymorphism.md",
-    "content/study/computer-science/Programming/languages/javascript/5.oop/3.inheritance.md",
-    "content/study/computer-science/Programming/languages/javascript/5.oop/2.encapsulation.md",
-    "content/study/computer-science/Programming/languages/javascript/5.oop/1.introduction.md",
     "content/study/computer-science/Programming/languages/javascript/5.oop",
-    "content/study/computer-science/Programming/languages/javascript/4.class/4.getters-setters.md",
-    "content/study/computer-science/Programming/languages/javascript/4.class/3.methods.md",
-    "content/study/computer-science/Programming/languages/javascript/4.class/2.properties.md",
-    "content/study/computer-science/Programming/languages/javascript/4.class/1.introduction.md",
     "content/study/computer-science/Programming/languages/javascript/4.class",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/6.json.md",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/5.destructuring.md",
-    "content/study/computer-science/Programming/languages/javascript/3.objects/4.interaction.md",
     "content/study/computer-science/Programming/languages/javascript/3.objects",
     "content/study/computer-science/Programming/languages/javascript/2.data-types",
     "content/study/computer-science/Programming/languages/javascript/1.introduction",
