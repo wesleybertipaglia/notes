@@ -1,0 +1,3 @@
+- Certifications: 80+
+- Power: 450w, 500w, 550w, etc.
+- Ripple

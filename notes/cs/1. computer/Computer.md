@@ -28,4 +28,6 @@ Here's a breakdown of the main components of a computer:
     - **Device Drivers**: Software that enables the operating system to communicate with hardware devices.
     - **Firmware**: Software stored on ROM chips that provides low-level control for specific hardware components, such as BIOS (Basic Input/Output System).
 
+History
+
 Computers come in various forms, sizes, and configurations, ranging from personal computers (desktops, laptops) to servers, mainframes, embedded systems, and specialized devices like smartphones, tablets, and gaming consoles. They play a crucial role in modern society, powering everything from communication networks and financial transactions to scientific research and entertainment.

@@ -9,6 +9,7 @@ Software refers to a set of instructions, programs, or data that enable computer
 - **Operating Systems (OS)**: Software that manages computer hardware resources, provides user interface features, and facilitates interaction between users and applications. Examples include Windows, macOS, Linux, and iOS.
 - **Device Drivers**: Software that enables communication between the operating system and hardware devices, allowing them to function properly. Device drivers are specific to each hardware component, such as printers, graphics cards, and network adapters.
 - **Utilities**: Software tools designed to perform system maintenance, optimization, and troubleshooting tasks, such as disk cleanup, antivirus scanning, and system monitoring.
+- Firmware: 
 
 #### Application Software
 

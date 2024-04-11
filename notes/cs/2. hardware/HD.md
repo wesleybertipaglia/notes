@@ -15,6 +15,9 @@ A hard drive (HD) is a non-volatile storage device used to store and retrieve di
 
 - **Hard Disk Drive (HDD)**: Traditional mechanical hard drives that use spinning platters and read/write heads to store and access data. HDDs offer high storage capacities at relatively low cost but are slower and more prone to mechanical failure.
 - **Solid-State Drive (SSD)**: Storage devices that use flash memory (NAND chips) instead of spinning disks, offering faster data access, lower power consumption, and increased durability compared to HDDs. SSDs are more expensive per gigabyte but provide better performance, especially for random access operations.
+- NVME
+- NVM
+- M2
 
 ### Hard Drive Performance
 
@@ -23,6 +26,8 @@ A hard drive (HD) is a non-volatile storage device used to store and retrieve di
 - **Latency**: The time it takes for the desired sector of the disk to rotate under the read/write heads, measured in milliseconds (ms). It depends on the rotational speed of the disk (RPM).
 - **Random Access Time**: The total time required to locate and retrieve a random piece of data from the hard drive, including seek time, latency, and data transfer time.
 - **Reliability and Durability**: Hard drives have limited lifespans and are susceptible to mechanical failure, data corruption, and data loss due to physical shocks, wear and tear, and manufacturing defects.
+
+NVM Gens 2, 3, 4, 5...
 
 ### Usage
 
