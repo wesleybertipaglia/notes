@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0d85ef27bc934ec9",
+            "id": "e7d391a205a9acfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/9. networking/Internet.md",
+                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 237.5
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/9. networking/Internet.md",
+                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/9. networking/Internet.md",
+                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/9. networking/Internet.md"
+                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md"
               }
             }
           },
@@ -172,44 +172,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d85ef27bc934ec9",
+  "active": "c6b653c490acf613",
   "lastOpenFiles": [
-    "notes/13. devops/Continuous Development.md",
+    "computer-science/19. Machine Learning",
+    "computer-science/18. Data Mining/Recuperação da Informação.md",
+    "computer-science/18. Data Mining/Processamento de Linguagem Natural.md",
+    "computer-science/18. Data Mining/Mineração de Redes Complexas.md",
+    "computer-science/18. Data Mining/Mineração de Dados Não Estruturados.md",
+    "computer-science/18. Data Mining/Sistemas de Recomendação.md",
+    "computer-science/18. Data Mining",
+    "computer-science/17. Data Science",
+    "computer-science/16. IOT",
+    "computer-science/15. Mobile Development",
+    "computer-science/14. Web Development",
+    "computer-science/6. information-theory/Information Theory.md",
+    "computer-science/6. information-theory/Information Content.md",
+    "computer-science/6. information-theory/Error Correction.md",
+    "computer-science/6. information-theory/Entropy.md",
+    "computer-science/6. information-theory/Data Compression.md",
+    "computer-science/6. information-theory/Cryptography.md",
+    "computer-science/6. information-theory/Channel Capacity.md",
+    "computer-science/6. information-theory",
+    "english",
+    "math",
+    "computer-science/11. software-engineer/Tolerancia a Falha.md",
+    "computer-science/12. development/IOT.md",
+    "computer-science/12. development/Web Development.md",
+    "computer-science/12. development/Mobile Development.md",
+    "computer-science/12. development/Front-end and Back-end.md",
+    "computer-science/11. software-engineer/Agile.md",
+    "computer-science/11. software-engineer/Project Management.md",
+    "computer-science/11. software-engineer/Tests.md",
+    "computer-science/11. software-engineer/Quality Assurance.md",
+    "computer-science/7. networking/Internet.md",
+    "computer-science/13. devops/Continuous Development.md",
     "www.google.com.md",
-    "notes/9. networking/Internet.md",
-    "notes/2. computer/Computer.md",
-    "notes/3. hardware/Power Supply.md",
-    "notes/13. devops/DevOps.md",
-    "notes/1. cs-101/Computer Science.md",
-    "notes/12. development/Development.md",
-    "notes/9. networking/Network.md",
-    "notes/8. programming/Programming.md",
-    "notes/2. computer/Abaco.md",
-    "templates/summary-template.md",
-    "Untitled.md",
-    "notes/9. networking/Web.md",
-    "notes/13. devops/Continuous Integration.md",
-    "notes/13. devops/Container Ochestration.md",
-    "notes/13. devops/Containers.md",
-    "notes/13. devops/Terminal.md",
-    "notes/13. devops/Operational Systems.md",
-    "notes/13. devops/containers/docker-swarm/1.introduction.md",
-    "notes/13. devops/containers/docker-swarm/Docker Swarm.md",
-    "notes/13. devops/containers/docker/Docker.md",
-    "notes/13. devops/containers/docker/compose.md",
-    "notes/13. devops/containers/docker/cli.md",
-    "notes/13. devops/containers/docker/swarm.md",
-    "notes/12. development/Security.md",
-    "notes/12. development",
-    "notes/7. Algorithms",
-    "notes/1. cs-101",
-    "notes/cs/10.machine-learning",
-    "notes/cs/9.cloud-computing",
-    "notes/6. dsa/algorithms/performance",
-    "notes/6. data-structures/data-structures",
-    "notes/6. data-structures/algorithms",
-    "notes/6. data-structures",
-    "notes/10. information-theory/error-correction",
+    "computer-science/2. computer/Computer.md",
+    "computer-science/12. development",
+    "computer-science/9. Algorithms",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
