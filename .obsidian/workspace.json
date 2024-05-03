@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "e7d391a205a9acfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer-science/18. Data Mining/Sistemas de Recomendação.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,14 +155,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6b653c490acf613",
+  "active": "3d96d56c71e31f78",
   "lastOpenFiles": [
+    "math/Discret.md",
+    "computer-science/2. computer/Computer Architecture.md",
+    "computer-science/2. computer/Digital Cirquits.md",
+    "math/Algebra.md",
+    "math/Arithmetics.md",
+    "math/Calculo 1.md",
+    "math/Pre Calculo.md",
+    "computer-science/18. Data Mining/Sistemas de Recomendação.md",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining/Recuperação da Informação.md",
     "computer-science/18. Data Mining/Processamento de Linguagem Natural.md",
     "computer-science/18. Data Mining/Mineração de Redes Complexas.md",
     "computer-science/18. Data Mining/Mineração de Dados Não Estruturados.md",
-    "computer-science/18. Data Mining/Sistemas de Recomendação.md",
     "computer-science/18. Data Mining",
     "computer-science/17. Data Science",
     "computer-science/16. IOT",
@@ -202,14 +192,7 @@
     "computer-science/12. development/Front-end and Back-end.md",
     "computer-science/11. software-engineer/Agile.md",
     "computer-science/11. software-engineer/Project Management.md",
-    "computer-science/11. software-engineer/Tests.md",
-    "computer-science/11. software-engineer/Quality Assurance.md",
-    "computer-science/7. networking/Internet.md",
-    "computer-science/13. devops/Continuous Development.md",
-    "www.google.com.md",
-    "computer-science/2. computer/Computer.md",
     "computer-science/12. development",
-    "computer-science/9. Algorithms",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
