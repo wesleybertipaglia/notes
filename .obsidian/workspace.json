@@ -28,8 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "145032a432fb9f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computer-science/14. Web Development/JavaScript Technologies.md"
+              }
             }
           },
           {
@@ -167,8 +184,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d96d56c71e31f78",
+  "active": "145032a432fb9f99",
   "lastOpenFiles": [
+    "computer-science/14. Web Development/JavaScript.md",
+    "computer-science/14. Web Development/JavaScript Technologies.md",
+    "computer-science/14. Web Development/CSS Processors.md",
+    "computer-science/14. Web Development/CSS.md",
+    "computer-science/14. Web Development/Web Development.md",
+    "computer-science/14. Web Development/HTML.md",
     "computer-science/13. devops/Continuous Integration.md",
     "computer-science/13. devops/Continuous Development.md",
     "computer-science/13. devops/Containers.md",
@@ -189,12 +212,6 @@
     "computer-science/11. software-engineer/Software Architecture.md",
     "computer-science/11. software-engineer/Quality Assurance.md",
     "computer-science/11. software-engineer/Project Management.md",
-    "computer-science/9. Algorithms/Tree Algorithms.md",
-    "computer-science/10. programming/Programming.md",
-    "computer-science/10. programming/Paradigms.md",
-    "computer-science/10. programming/Memory.md",
-    "computer-science/10. programming/Languages.md",
-    "computer-science/9. Algorithms/Sorting Algorithms.md",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining",
     "computer-science/17. Data Science",
