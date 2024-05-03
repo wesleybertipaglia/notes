@@ -1,0 +1,4 @@
+- bash / shell
+- editors
+- commands
+- 

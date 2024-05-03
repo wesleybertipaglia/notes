@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0d85ef27bc934ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/9. networking/Internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/9. networking/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/9. networking/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/9. networking/Internet.md"
+              }
             }
           },
           {
@@ -152,48 +169,47 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d96d56c71e31f78",
+  "active": "0d85ef27bc934ec9",
   "lastOpenFiles": [
-    "notes/cs/1. computer/Computer Cycles.md",
-    "notes/cs/5. programming/Programming.md",
-    "notes/cs/5. programming/Paradigms.md",
-    "notes/cs/5. programming/Memory.md",
-    "notes/cs/5. programming/Languages.md",
-    "notes/cs/6. dsa/DSA.md",
-    "notes/cs/4. binary/ASCII.md",
-    "notes/cs/4. binary/Digital Information.md",
-    "notes/cs/4. binary/4. Encoding & Decoding.md",
-    "notes/cs/4. binary/3. Hexadecimal.md",
-    "notes/cs/4. binary/2. Decimal.md",
-    "notes/cs/4. binary/1. Binary.md",
-    "notes/cs/3. software/Firmware.md",
-    "notes/cs/3. software/Applications.md",
-    "notes/cs/3. software/Interfaces.md",
-    "notes/cs/3. software/Kernel.md",
-    "notes/cs/3. software/OS.md",
-    "notes/cs/3. software/Shell.md",
-    "notes/cs/3. software/Software.md",
-    "notes/cs/1. computer/Turing Machine.md",
-    "notes/cs/1. computer/Input and Output.md",
-    "notes/cs/1. computer/How Computer Works.md",
-    "notes/cs/1. computer/Controllers.md",
-    "notes/cs/1. computer/Computer.md",
-    "notes/cs/1. computer/Abaco.md",
-    "notes/cs/2. hardware/ROM.md",
+    "notes/13. devops/Continuous Development.md",
+    "www.google.com.md",
+    "notes/9. networking/Internet.md",
+    "notes/2. computer/Computer.md",
+    "notes/3. hardware/Power Supply.md",
+    "notes/13. devops/DevOps.md",
+    "notes/1. cs-101/Computer Science.md",
+    "notes/12. development/Development.md",
+    "notes/9. networking/Network.md",
+    "notes/8. programming/Programming.md",
+    "notes/2. computer/Abaco.md",
+    "templates/summary-template.md",
+    "Untitled.md",
+    "notes/9. networking/Web.md",
+    "notes/13. devops/Continuous Integration.md",
+    "notes/13. devops/Container Ochestration.md",
+    "notes/13. devops/Containers.md",
+    "notes/13. devops/Terminal.md",
+    "notes/13. devops/Operational Systems.md",
+    "notes/13. devops/containers/docker-swarm/1.introduction.md",
+    "notes/13. devops/containers/docker-swarm/Docker Swarm.md",
+    "notes/13. devops/containers/docker/Docker.md",
+    "notes/13. devops/containers/docker/compose.md",
+    "notes/13. devops/containers/docker/cli.md",
+    "notes/13. devops/containers/docker/swarm.md",
+    "notes/12. development/Security.md",
+    "notes/12. development",
+    "notes/7. Algorithms",
+    "notes/1. cs-101",
     "notes/cs/10.machine-learning",
     "notes/cs/9.cloud-computing",
-    "notes/cs/6. dsa/algorithms/performance",
-    "notes/cs/6. dsa/data-structures",
-    "notes/cs/6. dsa/algorithms",
-    "notes/cs/6. dsa",
-    "notes/cs/7. information-theory/error-correction",
-    "notes/cs/7. information-theory/channel-capacity",
-    "notes/cs/7. information-theory/data-compression",
-    "notes/cs/7. information-theory/information-content",
+    "notes/6. dsa/algorithms/performance",
+    "notes/6. data-structures/data-structures",
+    "notes/6. data-structures/algorithms",
+    "notes/6. data-structures",
+    "notes/10. information-theory/error-correction",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",

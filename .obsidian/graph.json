@@ -4,70 +4,84 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Computer Science",
+      "query": "tag:#blog  ",
       "color": {
         "a": 1,
-        "rgb": 5412832
+        "rgb": 14701138
       }
     },
     {
-      "query": "Algorithms",
+      "query": "tag:#cs",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Data Structures",
+      "query": "tag:#computer",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "Programming",
+      "query": "tag:#hardware",
       "color": {
         "a": 1,
-        "rgb": 13725676
+        "rgb": 5431378
       }
     },
     {
-      "query": "Cryptography",
+      "query": "tag:#software",
       "color": {
         "a": 1,
-        "rgb": 14713938
+        "rgb": 5431473
       }
     },
     {
-      "query": "Network",
+      "query": "tag:#information",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "Development",
+      "query": "tag:#dsa",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "Back-end",
+      "query": "tag:#network",
       "color": {
         "a": 1,
-        "rgb": 6021202
+        "rgb": 11621088
       }
     },
     {
-      "query": "Front-end",
+      "query": "tag:#architecture",
       "color": {
         "a": 1,
-        "rgb": 14727762
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#dev",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#devops",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 0.489583333333333,
   "linkDistance": 248,
-  "scale": 1.0136432647705078,
-  "close": true
+  "scale": 0.6757621765136719,
+  "close": false
 }
