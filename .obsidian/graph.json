@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#blog  ",
@@ -32,7 +32,7 @@
       "query": "tag:#hardware",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16361727
       }
     },
     {
@@ -64,24 +64,31 @@
       }
     },
     {
-      "query": "tag:#architecture",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "tag:#dev",
+      "query": "tag:#programming",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#devops",
+      "query": "tag:#engineer",
+      "color": {
+        "a": 1,
+        "rgb": 9917222
+      }
+    },
+    {
+      "query": "tag:#dev",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#devops",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 0.489583333333333,
   "linkDistance": 248,
-  "scale": 0.6757621765136719,
-  "close": true
+  "scale": 1.0136432647705078,
+  "close": false
 }

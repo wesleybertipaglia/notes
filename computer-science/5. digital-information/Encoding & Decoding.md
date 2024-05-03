@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Digital Information]]"
+tags:
+  - information
+---
 Encoding and decoding are fundamental processes in computer science and digital communication, used to convert data from one representation to another. Encoding involves converting data into a specific format suitable for storage, transmission, or processing, while decoding reverses the process to retrieve the original data.
 
 ### Encoding

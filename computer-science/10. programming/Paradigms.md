@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Programming]]"
+tags:
+  - programming
+---
 ## Programming Paradigms
 
 Programming paradigms are fundamental approaches to structuring and organizing code, providing guidelines and methodologies for software development. Each paradigm emphasizes different principles, concepts, and techniques for solving problems and expressing computations.

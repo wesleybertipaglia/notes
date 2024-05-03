@@ -6,4 +6,5 @@ videos:
 groups:
   - "[[Computer]]"
 tags:
+  - computer
 ---

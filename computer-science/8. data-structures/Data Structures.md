@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Computer Science]]"
+tags:
+  - dsa
+---
 ## Data Structures
 
 Data structures are fundamental concepts in computer science used to organize, store, and manipulate data efficiently. They provide different ways of structuring and accessing data, each with its own advantages and use cases.

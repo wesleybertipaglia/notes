@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Computer Science]]"
+tags:
+  - programming
+---
 ## Programming
 
 Programming is the process of writing instructions (code) for computers to execute tasks and solve problems. It involves designing algorithms, structuring code, and debugging errors to create software applications and systems.

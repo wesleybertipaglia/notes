@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Digital Information]]"
+tags:
+  - information
+---
 - ASCII is an encoding representing each typed character by a number
 - Each number is stored in one byte (so the number is in 0..255)
 - "Unicode" is an encoding for mandarin, greek, arabic, etc. languages, typically 2-bytes per "character"

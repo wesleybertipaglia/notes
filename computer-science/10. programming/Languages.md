@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Programming]]"
+tags:
+  - programming
+---
 ## Programming Languages
 
 Programming languages are formal languages used to instruct computers to perform specific tasks. They provide syntax and semantics for writing code, which is then translated into machine-readable instructions that computers can execute.

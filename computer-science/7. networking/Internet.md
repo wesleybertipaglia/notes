@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Network]]"
+tags:
+  - network
+---
 # How the internet works
 
 The internet is the infrastructure that makes the web possible. At its most basic, the internet is a large network of computers that communicate with each other, and the Web is a service built on top of this infrastructure.

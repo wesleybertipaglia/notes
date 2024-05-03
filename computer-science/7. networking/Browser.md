@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Network]]"
+tags:
+  - network
+---
 # Browser
 
 A web browser is a software application that allows users to access and navigate the World Wide Web. It interprets and displays web pages, providing a graphical user interface for users to interact with web content.

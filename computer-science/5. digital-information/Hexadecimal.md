@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Digital Information]]"
+tags:
+  - information
+---
 Hexadecimal encoding is a numerical system commonly used in computing and digital communication to represent numbers, characters, and data. Hexadecimal encoding utilizes a base-16 numeral system, allowing representation using the digits 0 through 9 and the letters A through F.
 
 ### Hexadecimal Units

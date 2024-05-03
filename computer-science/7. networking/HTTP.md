@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Network]]"
+tags:
+  - network
+---
 # An Overview of HTTTP
 
 HTTP, or Hypertext Transfer Protocol, is a protocol that allow us to send and receive hypertext on the web, this hypertext typically includes text, images, videos, and other multimedia elements. A complete document is reconstructed from different sub-documents fetched.

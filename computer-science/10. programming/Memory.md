@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Programming]]"
+tags:
+  - programming
+---
 ## Memory in Programming
 
 Memory management is a crucial aspect of programming, as it determines how programs allocate, use, and release memory resources during execution. Understanding memory in programming is essential for writing efficient and reliable software.

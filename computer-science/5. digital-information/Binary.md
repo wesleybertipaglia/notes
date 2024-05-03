@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Digital Information]]"
+tags:
+  - information
+---
 ## Binary
 Is a conjunct of 0's and 1's that represents any type of data in a computer, like numbers, texts, images, videos, sounds, and more.
 

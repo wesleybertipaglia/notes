@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Network]]"
+tags:
+  - network
+---
 # Hosting
 
 Hosting refers to the process of storing, serving, and maintaining files for a website or an online application on a server that is connected to the internet.

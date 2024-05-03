@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Digital Information]]"
+tags:
+  - information
+---
 Decimal encoding is a common method used in computing and digital communication to represent numbers, characters, and data using the decimal (base-10) numeral system. Unlike binary encoding, which uses 0s and 1s, decimal encoding uses the digits 0 through 9.
 
 ### Decimal Units

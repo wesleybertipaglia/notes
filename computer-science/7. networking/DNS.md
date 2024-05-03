@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+resources: 
+videos: 
+groups:
+  - "[[Network]]"
+tags:
+  - network
+---
 # DNS (Domain Name System)
 
 The Domain Name System (DNS) is a hierarchical and distributed naming system that translates human-readable domain names into IP addresses and vice versa.
