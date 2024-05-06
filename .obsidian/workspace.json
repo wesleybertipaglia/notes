@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "f48da81c07757530",
+            "id": "2977d11cb4a8fe2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/13. devops/Continuous Integration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "145032a432fb9f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
+                "file": "english/vocabulary/Technology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
+                "file": "english/vocabulary/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/14. Web Development/JavaScript Technologies.md",
+                "file": "english/vocabulary/Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-science/14. Web Development/JavaScript Technologies.md"
+                "file": "english/vocabulary/Technology.md"
               }
             }
           },
@@ -184,34 +172,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "145032a432fb9f99",
+  "active": "2977d11cb4a8fe2b",
   "lastOpenFiles": [
-    "computer-science/14. Web Development/JavaScript.md",
-    "computer-science/14. Web Development/JavaScript Technologies.md",
-    "computer-science/14. Web Development/CSS Processors.md",
-    "computer-science/14. Web Development/CSS.md",
-    "computer-science/14. Web Development/Web Development.md",
-    "computer-science/14. Web Development/HTML.md",
-    "computer-science/13. devops/Continuous Integration.md",
-    "computer-science/13. devops/Continuous Development.md",
-    "computer-science/13. devops/Containers.md",
-    "computer-science/13. devops/Container Ochestration.md",
-    "computer-science/11. software-engineer/Agile.md",
-    "computer-science/12. development/Web Development.md",
-    "computer-science/12. development/Security.md",
-    "computer-science/12. development/Mobile Development.md",
-    "computer-science/12. development/IOT Development.md",
-    "computer-science/12. development/Front-end and Back-end.md",
-    "computer-science/12. development/Development.md",
-    "computer-science/12. development/Databases.md",
-    "computer-science/12. development/Caching.md",
-    "computer-science/12. development/APIs.md",
-    "computer-science/11. software-engineer/Tests.md",
-    "computer-science/11. software-engineer/Tolerancia a Falha.md",
-    "computer-science/11. software-engineer/Software Engineer.md",
-    "computer-science/11. software-engineer/Software Architecture.md",
-    "computer-science/11. software-engineer/Quality Assurance.md",
-    "computer-science/11. software-engineer/Project Management.md",
+    "english/vocabulary/Work and Meetings.md",
+    "english/vocabulary/Vehicles and Transportation.md",
+    "english/vocabulary/Travel and Airport.md",
+    "english/vocabulary/Technology.md",
+    "english/vocabulary/Outfit.md",
+    "english/vocabulary/Numbers, Colors and Shapes.md",
+    "english/vocabulary/House and Furniture.md",
+    "english/vocabulary/School and College.md",
+    "english/vocabulary/City and Buildings.md",
+    "english/vocabulary/Airport.md",
+    "english/vocabulary/Adjectives.md",
+    "english/vocabulary/Food and Drinks.md",
+    "english/vocabulary/Drinks.md",
+    "english/grammar/1. Nouns.md",
+    "english/vocabulary",
+    "english/grammar/13. Future.md",
+    "english/grammar",
+    "english/grammar/12. Past.md",
+    "english/grammar/11. Present.md",
+    "english/grammar/10. Tensens.md",
+    "english/grammar/9. Sentences.md",
+    "english/grammar/8. Interjections.md",
+    "english/grammar/7. Conjunctions.md",
+    "english/grammar/6. Prepositions.md",
+    "english/grammar/5. Adverbs.md",
+    "english/grammar/4. Verbs.md",
+    "english/grammar/3. Articles.md",
+    "english/grammar/2. Pronouns.md",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining",
     "computer-science/17. Data Science",
@@ -220,8 +210,6 @@
     "computer-science/14. Web Development",
     "computer-science/6. information-theory",
     "english",
-    "math",
-    "computer-science/12. development",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
