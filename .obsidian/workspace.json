@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/vocabulary/Technology.md",
+                "file": "english/grammar/14. Passive Voice.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "ade255c6c2ba089c",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/vocabulary/Technology.md",
+                "file": "english/grammar/14. Passive Voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english/vocabulary/Technology.md",
+                "file": "english/grammar/14. Passive Voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english/vocabulary/Technology.md"
+                "file": "english/grammar/14. Passive Voice.md"
               }
             }
           },
@@ -174,10 +175,11 @@
   },
   "active": "2977d11cb4a8fe2b",
   "lastOpenFiles": [
+    "english/vocabulary/Technology.md",
+    "english/grammar/14. Passive Voice.md",
     "english/vocabulary/Work and Meetings.md",
     "english/vocabulary/Vehicles and Transportation.md",
     "english/vocabulary/Travel and Airport.md",
-    "english/vocabulary/Technology.md",
     "english/vocabulary/Outfit.md",
     "english/vocabulary/Numbers, Colors and Shapes.md",
     "english/vocabulary/House and Furniture.md",
@@ -201,7 +203,6 @@
     "english/grammar/5. Adverbs.md",
     "english/grammar/4. Verbs.md",
     "english/grammar/3. Articles.md",
-    "english/grammar/2. Pronouns.md",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining",
     "computer-science/17. Data Science",
