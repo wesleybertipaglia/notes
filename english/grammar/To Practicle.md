@@ -1,4 +1,4 @@
-		  - As if / As though
+ - As if / As though
 - The emphatic do
 - Dependent prepositions
 
