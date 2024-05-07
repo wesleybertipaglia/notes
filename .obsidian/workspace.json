@@ -28,8 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7551d635b4091e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/1. grammar/2. Sentence Structure/1. Word Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "english/1. grammar/2. Sentence Structure/1. Word Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "english/1. grammar/2. Sentence Structure/1. Word Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "english/1. grammar/2. Sentence Structure/1. Word Order.md"
+              }
             }
           },
           {
@@ -167,44 +184,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d96d56c71e31f78",
+  "active": "7551d635b4091e0f",
   "lastOpenFiles": [
-    "english/English.md",
-    "english/grammar/1. Parts of Speech/10. Punctuation.md",
-    "english/grammar/1. Parts of Speech/9. Interjections.md",
-    "english/grammar/1. Parts of Speech/8. Conjunctions.md",
-    "english/grammar/1. Parts of Speech/7. Prepositions.md",
-    "english/grammar/1. Parts of Speech/6. Adjectives.md",
-    "english/grammar/1. Parts of Speech/5. Adverbs.md",
-    "english/grammar/1. Parts of Speech/4. Verbs.md",
-    "english/grammar/1. Parts of Speech/3. Articles.md",
-    "english/grammar/1. Parts of Speech/2. Pronouns.md",
-    "english/grammar/1. Parts of Speech/1. Nouns.md",
-    "english/vocabulary/1. Basics.md",
-    "english/vocabulary/City and Buildings.md",
-    "english/vocabulary/Adjectives.md",
-    "english/grammar/4. Clauses and Phrases",
-    "english/grammar/3. Verb Tenses",
-    "english/grammar/2. Sentence Structure",
-    "english/grammar/1. Parts of Speech",
-    "english/grammar/1. Nouns.md",
-    "english/grammar/To Practicle.md",
-    "english/grammar/2. Pronouns.md",
-    "english/grammar/14. Voice.md",
-    "english/vocabulary/Technology.md",
-    "english/vocabulary/Work and Meetings.md",
-    "english/vocabulary/Vehicles and Transportation.md",
-    "english/vocabulary/Travel and Airport.md",
-    "english/vocabulary/Outfit.md",
-    "english/vocabulary/Numbers, Colors and Shapes.md",
-    "english/vocabulary/House and Furniture.md",
-    "english/vocabulary/School and College.md",
-    "english/vocabulary",
-    "english/grammar",
+    "english/1. grammar/1. Parts of Speech/10. Punctuation.md",
+    "english/1. grammar/1. Parts of Speech/9. Interjections.md",
+    "english/1. grammar/1. Parts of Speech/4. Verbs.md",
+    "english/1. grammar/1. Parts of Speech/2. Pronouns.md",
+    "english/1. grammar/1. Parts of Speech/1. Nouns.md",
+    "english/2. vocabulary/4. Clothing and Apparence.md",
+    "english/2. vocabulary/3. Food and Drink.md",
+    "english/2. vocabulary/2. Daily Activities.md",
+    "english/2. vocabulary/1. Basics.md",
+    "english/3. conversation/12. Expressing Gratitude and Appreciation.md",
+    "english/3. conversation/11. Talking About Future Goals and Aspirations.md",
+    "english/3. conversation/10. Talking About Movies, Books, or TV Shows.md",
+    "english/3. conversation/9. Making Plans with Friends.md",
+    "english/3. conversation/8. Talking About the Weather.md",
+    "english/3. conversation/9. Sharing Opinions on Current Events.md",
+    "english/3. conversation/7. Discussing Family and Relationships.md",
+    "english/3. conversation/6. Talking About Travel.md",
+    "english/3. conversation/5. Giving and Asking for Directions.md",
+    "english/3. conversation/4. Ordering Food at a Restaurant.md",
+    "english/3. conversation/3. Discussing Daily Routines.md",
+    "english/3. conversation/2. Talking About Hobbies and Interests.md",
+    "english/3. conversation/1. Introducing Yourself.md",
+    "english/2. vocabulary/17. Environment and Nature.md",
+    "english/3. conversation",
+    "english/2. vocabulary/16. Technology and Communication.md",
+    "english/2. vocabulary/15. Health and Wellness.md",
+    "english/2. vocabulary/14. School and College.md",
+    "english/1. grammar/4. Verbs",
+    "english/1. grammar/5. Clauses and Phrases",
+    "english/1. grammar/3. Verb Tenses",
+    "english/1. grammar/2. Sentence Structure",
+    "english/1. grammar/1. Parts of Speech",
+    "english/2. vocabulary",
+    "english/1. grammar",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining",
-    "computer-science/17. Data Science",
-    "computer-science/16. IOT",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
