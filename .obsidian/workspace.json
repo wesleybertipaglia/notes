@@ -18,19 +18,18 @@
             }
           },
           {
-            "id": "2977d11cb4a8fe2b",
+            "id": "c4f16892188bc5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/grammar/To Practicle.md",
+                "file": "english/English.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/grammar/To Practicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english/grammar/To Practicle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "english/grammar/To Practicle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +167,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2977d11cb4a8fe2b",
+  "active": "3d96d56c71e31f78",
   "lastOpenFiles": [
-    "english/grammar/2. Pronouns.md",
+    "english/English.md",
+    "english/grammar/1. Parts of Speech/10. Punctuation.md",
+    "english/grammar/1. Parts of Speech/9. Interjections.md",
+    "english/grammar/1. Parts of Speech/8. Conjunctions.md",
+    "english/grammar/1. Parts of Speech/7. Prepositions.md",
+    "english/grammar/1. Parts of Speech/6. Adjectives.md",
+    "english/grammar/1. Parts of Speech/5. Adverbs.md",
+    "english/grammar/1. Parts of Speech/4. Verbs.md",
+    "english/grammar/1. Parts of Speech/3. Articles.md",
+    "english/grammar/1. Parts of Speech/2. Pronouns.md",
+    "english/grammar/1. Parts of Speech/1. Nouns.md",
+    "english/vocabulary/1. Basics.md",
+    "english/vocabulary/City and Buildings.md",
+    "english/vocabulary/Adjectives.md",
+    "english/grammar/4. Clauses and Phrases",
+    "english/grammar/3. Verb Tenses",
+    "english/grammar/2. Sentence Structure",
+    "english/grammar/1. Parts of Speech",
+    "english/grammar/1. Nouns.md",
     "english/grammar/To Practicle.md",
+    "english/grammar/2. Pronouns.md",
     "english/grammar/14. Voice.md",
     "english/vocabulary/Technology.md",
     "english/vocabulary/Work and Meetings.md",
@@ -185,31 +199,12 @@
     "english/vocabulary/Numbers, Colors and Shapes.md",
     "english/vocabulary/House and Furniture.md",
     "english/vocabulary/School and College.md",
-    "english/vocabulary/City and Buildings.md",
-    "english/vocabulary/Airport.md",
-    "english/vocabulary/Adjectives.md",
-    "english/vocabulary/Food and Drinks.md",
-    "english/vocabulary/Drinks.md",
-    "english/grammar/1. Nouns.md",
     "english/vocabulary",
-    "english/grammar/13. Future.md",
     "english/grammar",
-    "english/grammar/12. Past.md",
-    "english/grammar/11. Present.md",
-    "english/grammar/10. Tensens.md",
-    "english/grammar/9. Sentences.md",
-    "english/grammar/8. Interjections.md",
-    "english/grammar/7. Conjunctions.md",
-    "english/grammar/6. Prepositions.md",
-    "english/grammar/5. Adverbs.md",
     "computer-science/19. Machine Learning",
     "computer-science/18. Data Mining",
     "computer-science/17. Data Science",
     "computer-science/16. IOT",
-    "computer-science/15. Mobile Development",
-    "computer-science/14. Web Development",
-    "computer-science/6. information-theory",
-    "english",
     "Pasted image 20240330101649.png",
     "Pasted image 20240330101627.png",
     "Pasted image 20240330093005.png",
